@@ -1,958 +1,1205 @@
-verb,tense,person,form
-préférer,présent,je,préfère
-préférer,présent,tu,préfères
-préférer,présent,il,préfère
-préférer,présent,nous,préférons
-préférer,présent,vous,préférez
-préférer,présent,ils,préfèrent
-payer,présent,je,paie
-payer,présent,tu,paies
-payer,présent,il,paie
-payer,présent,nous,payons
-payer,présent,vous,payez
-payer,présent,ils,paient
-appeler,présent,je,appelle
-appeler,présent,tu,appelles
-appeler,présent,il,appelle
-appeler,présent,nous,appelons
-appeler,présent,vous,appelez
-appeler,présent,ils,appellent
-acheter,présent,je,achète
-acheter,présent,tu,achètes
-acheter,présent,il,achète
-acheter,présent,nous,achetons
-acheter,présent,vous,achetez
-acheter,présent,ils,achètent
-commencer,présent,je,commence
-commencer,présent,tu,commences
-commencer,présent,il,commence
-commencer,présent,nous,commençons
-commencer,présent,vous,commencez
-commencer,présent,ils,commencent
-manger,présent,je,mange
-manger,présent,tu,manges
-manger,présent,il,mange
-manger,présent,nous,mangeons
-manger,présent,vous,mangez
-manger,présent,ils,mangent
-suivre,présent,je,suis
-suivre,présent,tu,suis
-suivre,présent,il,suit
-suivre,présent,nous,suivons
-suivre,présent,vous,suivez
-suivre,présent,ils,suivent
-croire,présent,je,crois
-croire,présent,tu,crois
-croire,présent,il,croit
-croire,présent,nous,croyons
-croire,présent,vous,croyez
-croire,présent,ils,croient
-prendre,présent,je,prends
-prendre,présent,tu,prends
-prendre,présent,il,prend
-prendre,présent,nous,prenons
-prendre,présent,vous,prenez
-prendre,présent,ils,prennent
-venir,présent,je,viens
-venir,présent,tu,viens
-venir,présent,il,vient
-venir,présent,nous,venons
-venir,présent,vous,venez
-venir,présent,ils,viennent
-devoir,présent,je,dois
-devoir,présent,tu,dois
-devoir,présent,il,doit
-devoir,présent,nous,devons
-devoir,présent,vous,devez
-devoir,présent,ils,doivent
-savoir,présent,je,sais
-savoir,présent,tu,sais
-savoir,présent,il,sait
-savoir,présent,nous,savons
-savoir,présent,vous,savez
-savoir,présent,ils,savent
-voir,présent,je,vois
-voir,présent,tu,vois
-voir,présent,il,voit
-voir,présent,nous,voyons
-voir,présent,vous,voyez
-voir,présent,ils,voient
-vouloir,présent,je,veux
-vouloir,présent,tu,veux
-vouloir,présent,il,veut
-vouloir,présent,nous,voulons
-vouloir,présent,vous,voulez
-vouloir,présent,ils,veulent
-pouvoir,présent,je,peux
-pouvoir,présent,tu,peux
-pouvoir,présent,il,peut
-pouvoir,présent,nous,pouvons
-pouvoir,présent,vous,pouvez
-pouvoir,présent,ils,peuvent
-dire,présent,je,dis
-dire,présent,tu,dis
-dire,présent,il,dit
-dire,présent,nous,disons
-dire,présent,vous,dites
-dire,présent,ils,disent
-aller,présent,je,vais
-aller,présent,tu,vas
-aller,présent,il,va
-aller,présent,nous,allons
-aller,présent,vous,allez
-aller,présent,ils,vont
-faire,présent,je,fais
-faire,présent,tu,fais
-faire,présent,il,fait
-faire,présent,nous,faisons
-faire,présent,vous,faites
-faire,présent,ils,font
-avoir,présent,je,ai
-avoir,présent,tu,as
-avoir,présent,il,a
-avoir,présent,nous,avons
-avoir,présent,vous,avez
-avoir,présent,ils,ont
-être,présent,je,suis
-être,présent,tu,es
-être,présent,il,est
-être,présent,nous,sommes
-être,présent,vous,êtes
-être,présent,ils,sont
-croire,passé composé,je,ai cru
-croire,passé composé,tu,as cru
-croire,passé composé,il,a cru
-croire,passé composé,nous,avons cru
-croire,passé composé,vous,avez cru
-croire,passé composé,ils,ont cru
-suivre,passé composé,je,ai suivi
-suivre,passé composé,tu,as suivi
-suivre,passé composé,il,a suivi
-suivre,passé composé,nous,avons suivi
-suivre,passé composé,vous,avez suivi
-suivre,passé composé,ils,ont suivi
-prendre,passé composé,je,ai pris
-prendre,passé composé,tu,as pris
-prendre,passé composé,il,a pris
-prendre,passé composé,nous,avons pris
-prendre,passé composé,vous,avez pris
-prendre,passé composé,ils,ont pris
-venir,passé composé,je,suis venu
-venir,passé composé,tu,es venu
-venir,passé composé,il,est venu
-venir,passé composé,nous,sommes venus
-venir,passé composé,vous,êtes venus
-venir,passé composé,ils,sont venus
-devoir,passé composé,je,ai dû
-devoir,passé composé,tu,as dû
-devoir,passé composé,il,a dû
-devoir,passé composé,nous,avons dû
-devoir,passé composé,vous,avez dû
-devoir,passé composé,ils,ont dû
-savoir,passé composé,je,ai su
-savoir,passé composé,tu,as su
-savoir,passé composé,il,a su
-savoir,passé composé,nous,avons su
-savoir,passé composé,vous,avez su
-savoir,passé composé,ils,ont su
-voir,passé composé,je,ai vu
-voir,passé composé,tu,as vu
-voir,passé composé,il,a vu
-voir,passé composé,nous,avons vu
-voir,passé composé,vous,avez vu
-voir,passé composé,ils,ont vu
-vouloir,passé composé,je,ai voulu
-vouloir,passé composé,tu,as voulu
-vouloir,passé composé,il,a voulu
-vouloir,passé composé,nous,avons voulu
-vouloir,passé composé,vous,avez voulu
-vouloir,passé composé,ils,ont voulu
-pouvoir,passé composé,je,ai pu
-pouvoir,passé composé,tu,as pu
-pouvoir,passé composé,il,a pu
-pouvoir,passé composé,nous,avons pu
-pouvoir,passé composé,vous,avez pu
-pouvoir,passé composé,ils,ont pu
-dire,passé composé,je,ai dit
-dire,passé composé,tu,as dit
-dire,passé composé,il,a dit
-dire,passé composé,nous,avons dit
-dire,passé composé,vous,avez dit
-dire,passé composé,ils,ont dit
-aller,passé composé,je,suis allé
-aller,passé composé,tu,es allé
-aller,passé composé,il,est allé
-aller,passé composé,nous,sommes allés
-aller,passé composé,vous,êtes allés
-aller,passé composé,ils,sont allés
-faire,passé composé,je,ai fait
-faire,passé composé,tu,as fait
-faire,passé composé,il,a fait
-faire,passé composé,nous,avons fait
-faire,passé composé,vous,avez fait
-faire,passé composé,ils,ont fait
-avoir,passé composé,je,ai eu
-avoir,passé composé,tu,as eu
-avoir,passé composé,il,a eu
-avoir,passé composé,nous,avons eu
-avoir,passé composé,vous,avez eu
-avoir,passé composé,ils,ont eu
-être,passé composé,je,ai été
-être,passé composé,tu,as été
-être,passé composé,il,a été
-être,passé composé,nous,avons été
-être,passé composé,vous,avez été
-être,passé composé,ils,ont été
-croire,imparfait,je,croyais
-croire,imparfait,tu,croyais
-croire,imparfait,il,croyait
-croire,imparfait,nous,croyions
-croire,imparfait,vous,croyiez
-croire,imparfait,ils,croyaient
-suivre,imparfait,je,suivais
-suivre,imparfait,tu,suivais
-suivre,imparfait,il,suivait
-suivre,imparfait,nous,suivions
-suivre,imparfait,vous,suiviez
-suivre,imparfait,ils,suivaient
-prendre,imparfait,je,prenais
-prendre,imparfait,tu,prenais
-prendre,imparfait,il,prenait
-prendre,imparfait,nous,prenions
-prendre,imparfait,vous,preniez
-prendre,imparfait,ils,prenaient
-venir,imparfait,je,venais
-venir,imparfait,tu,venais
-venir,imparfait,il,venait
-venir,imparfait,nous,venions
-venir,imparfait,vous,veniez
-venir,imparfait,ils,venaient
-devoir,imparfait,je,devais
-devoir,imparfait,tu,devais
-devoir,imparfait,il,devait
-devoir,imparfait,nous,devions
-devoir,imparfait,vous,deviez
-devoir,imparfait,ils,devaient
-savoir,imparfait,je,savais
-savoir,imparfait,tu,savais
-savoir,imparfait,il,savait
-savoir,imparfait,nous,savions
-savoir,imparfait,vous,saviez
-savoir,imparfait,ils,savaient
-voir,imparfait,je,voyais
-voir,imparfait,tu,voyais
-voir,imparfait,il,voyait
-voir,imparfait,nous,voyions
-voir,imparfait,vous,voyiez
-voir,imparfait,ils,voyaient
-vouloir,imparfait,je,voulais
-vouloir,imparfait,tu,voulais
-vouloir,imparfait,il,voulait
-vouloir,imparfait,nous,voulions
-vouloir,imparfait,vous,vouliez
-vouloir,imparfait,ils,voulaient
-pouvoir,imparfait,je,pouvais
-pouvoir,imparfait,tu,pouvais
-pouvoir,imparfait,il,pouvait
-pouvoir,imparfait,nous,pouvions
-pouvoir,imparfait,vous,pouviez
-pouvoir,imparfait,ils,pouvaient
-dire,imparfait,je,disais
-dire,imparfait,tu,disais
-dire,imparfait,il,disait
-dire,imparfait,nous,disions
-dire,imparfait,vous,disiez
-dire,imparfait,ils,disaient
-aller,imparfait,je,allais
-aller,imparfait,tu,allais
-aller,imparfait,il,allait
-aller,imparfait,nous,allions
-aller,imparfait,vous,alliez
-aller,imparfait,ils,allaient
-faire,imparfait,je,faisais
-faire,imparfait,tu,faisais
-faire,imparfait,il,faisait
-faire,imparfait,nous,faisions
-faire,imparfait,vous,faisiez
-faire,imparfait,ils,faisaient
-avoir,imparfait,je,avais
-avoir,imparfait,tu,avais
-avoir,imparfait,il,avait
-avoir,imparfait,nous,avions
-avoir,imparfait,vous,aviez
-avoir,imparfait,ils,avaient
-être,imparfait,je,étais
-être,imparfait,tu,étais
-être,imparfait,il,était
-être,imparfait,nous,étions
-être,imparfait,vous,étiez
-être,imparfait,ils,étaient
-croire,plus-que-parfait,je,avais cru
-croire,plus-que-parfait,tu,avais cru
-croire,plus-que-parfait,il,avait cru
-croire,plus-que-parfait,nous,avions cru
-croire,plus-que-parfait,vous,aviez cru
-croire,plus-que-parfait,ils,avaient cru
-suivre,plus-que-parfait,je,avais suivi
-suivre,plus-que-parfait,tu,avais suivi
-suivre,plus-que-parfait,il,avait suivi
-suivre,plus-que-parfait,nous,avions suivi
-suivre,plus-que-parfait,vous,aviez suivi
-suivre,plus-que-parfait,ils,avaient suivi
-prendre,plus-que-parfait,je,avais pris
-prendre,plus-que-parfait,tu,avais pris
-prendre,plus-que-parfait,il,avait pris
-prendre,plus-que-parfait,nous,avions pris
-prendre,plus-que-parfait,vous,aviez pris
-prendre,plus-que-parfait,ils,avaient pris
-venir,plus-que-parfait,je,étais venu
-venir,plus-que-parfait,tu,étais venu
-venir,plus-que-parfait,il,était venu
-venir,plus-que-parfait,nous,étions venus
-venir,plus-que-parfait,vous,étiez venus
-venir,plus-que-parfait,ils,étaient venus
-devoir,plus-que-parfait,je,avais dû
-devoir,plus-que-parfait,tu,avais dû
-devoir,plus-que-parfait,il,avait dû
-devoir,plus-que-parfait,nous,avions dû
-devoir,plus-que-parfait,vous,aviez dû
-devoir,plus-que-parfait,ils,avaient dû
-savoir,plus-que-parfait,je,avais su
-savoir,plus-que-parfait,tu,avais su
-savoir,plus-que-parfait,il,avait su
-savoir,plus-que-parfait,nous,avions su
-savoir,plus-que-parfait,vous,aviez su
-savoir,plus-que-parfait,ils,avaient su
-voir,plus-que-parfait,je,avais vu
-voir,plus-que-parfait,tu,avais vu
-voir,plus-que-parfait,il,avait vu
-voir,plus-que-parfait,nous,avions vu
-voir,plus-que-parfait,vous,aviez vu
-voir,plus-que-parfait,ils,avaient vu
-vouloir,plus-que-parfait,je,avais voulu
-vouloir,plus-que-parfait,tu,avais voulu
-vouloir,plus-que-parfait,il,avait voulu
-vouloir,plus-que-parfait,nous,avions voulu
-vouloir,plus-que-parfait,vous,aviez voulu
-vouloir,plus-que-parfait,ils,avaient voulu
-pouvoir,plus-que-parfait,je,avais pu
-pouvoir,plus-que-parfait,tu,avais pu
-pouvoir,plus-que-parfait,il,avait pu
-pouvoir,plus-que-parfait,nous,avions pu
-pouvoir,plus-que-parfait,vous,aviez pu
-pouvoir,plus-que-parfait,ils,avaient pu
-dire,plus-que-parfait,je,avais dit
-dire,plus-que-parfait,tu,avais dit
-dire,plus-que-parfait,il,avait dit
-dire,plus-que-parfait,nous,avions dit
-dire,plus-que-parfait,vous,aviez dit
-dire,plus-que-parfait,ils,avaient dit
-aller,plus-que-parfait,je,étais allé
-aller,plus-que-parfait,tu,étais allé
-aller,plus-que-parfait,il,était allé
-aller,plus-que-parfait,nous,étions allés
-aller,plus-que-parfait,vous,étiez allés
-aller,plus-que-parfait,ils,étaient allés
-faire,plus-que-parfait,je,avais fait
-faire,plus-que-parfait,tu,avais fait
-faire,plus-que-parfait,il,avait fait
-faire,plus-que-parfait,nous,avions fait
-faire,plus-que-parfait,vous,aviez fait
-faire,plus-que-parfait,ils,avaient fait
-avoir,plus-que-parfait,je,avais eu
-avoir,plus-que-parfait,tu,avais eu
-avoir,plus-que-parfait,il,avait eu
-avoir,plus-que-parfait,nous,avions eu
-avoir,plus-que-parfait,vous,aviez eu
-avoir,plus-que-parfait,ils,avaient eu
-être,plus-que-parfait,je,avais été
-être,plus-que-parfait,tu,avais été
-être,plus-que-parfait,il,avait été
-être,plus-que-parfait,nous,avions été
-être,plus-que-parfait,vous,aviez été
-être,plus-que-parfait,ils,avaient été
-croire,futur simple,je,croirai
-croire,futur simple,tu,croiras
-croire,futur simple,il,croira
-croire,futur simple,nous,croirons
-croire,futur simple,vous,croirez
-croire,futur simple,ils,croiront
-suivre,futur simple,je,suivrai
-suivre,futur simple,tu,suivras
-suivre,futur simple,il,suivra
-suivre,futur simple,nous,suivrons
-suivre,futur simple,vous,suivrez
-suivre,futur simple,ils,suivront
-prendre,futur simple,je,prendrai
-prendre,futur simple,tu,prendras
-prendre,futur simple,il,prendra
-prendre,futur simple,nous,prendrons
-prendre,futur simple,vous,prendrez
-prendre,futur simple,ils,prendront
-venir,futur simple,je,viendrai
-venir,futur simple,tu,viendras
-venir,futur simple,il,viendra
-venir,futur simple,nous,viendrons
-venir,futur simple,vous,viendrez
-venir,futur simple,ils,viendront
-devoir,futur simple,je,devrai
-devoir,futur simple,tu,devras
-devoir,futur simple,il,devra
-devoir,futur simple,nous,devrons
-devoir,futur simple,vous,devrez
-devoir,futur simple,ils,devront
-savoir,futur simple,je,saurai
-savoir,futur simple,tu,sauras
-savoir,futur simple,il,saura
-savoir,futur simple,nous,saurons
-savoir,futur simple,vous,saurez
-savoir,futur simple,ils,sauront
-voir,futur simple,je,verrai
-voir,futur simple,tu,verras
-voir,futur simple,il,verra
-voir,futur simple,nous,verrons
-voir,futur simple,vous,verrez
-voir,futur simple,ils,verront
-vouloir,futur simple,je,voudrai
-vouloir,futur simple,tu,voudras
-vouloir,futur simple,il,voudra
-vouloir,futur simple,nous,voudrons
-vouloir,futur simple,vous,voudrez
-vouloir,futur simple,ils,voudront
-pouvoir,futur simple,je,pourrai
-pouvoir,futur simple,tu,pourras
-pouvoir,futur simple,il,pourra
-pouvoir,futur simple,nous,pourrons
-pouvoir,futur simple,vous,pourrez
-pouvoir,futur simple,ils,pourront
-dire,futur simple,je,dirai
-dire,futur simple,tu,diras
-dire,futur simple,il,dira
-dire,futur simple,nous,dirons
-dire,futur simple,vous,direz
-dire,futur simple,ils,diront
-aller,futur simple,je,irai
-aller,futur simple,tu,iras
-aller,futur simple,il,ira
-aller,futur simple,nous,irons
-aller,futur simple,vous,irez
-aller,futur simple,ils,iront
-faire,futur simple,je,ferai
-faire,futur simple,tu,feras
-faire,futur simple,il,fera
-faire,futur simple,nous,ferons
-faire,futur simple,vous,ferez
-faire,futur simple,ils,feront
-avoir,futur simple,je,aurai
-avoir,futur simple,tu,auras
-avoir,futur simple,il,aura
-avoir,futur simple,nous,aurons
-avoir,futur simple,vous,aurez
-avoir,futur simple,ils,auront
-être,futur simple,je,serai
-être,futur simple,tu,seras
-être,futur simple,il,sera
-être,futur simple,nous,serons
-être,futur simple,vous,serez
-être,futur simple,ils,seront
-aller,passé récent,je,viens de aller
-aller,passé récent,tu,viens de aller
-aller,passé récent,il,vient de aller
-aller,passé récent,nous,venons de aller
-aller,passé récent,vous,venez de aller
-aller,passé récent,ils,viennent de aller
-faire,passé récent,je,viens de faire
-faire,passé récent,tu,viens de faire
-faire,passé récent,il,vient de faire
-faire,passé récent,nous,venons de faire
-faire,passé récent,vous,venez de faire
-faire,passé récent,ils,viennent de faire
-avoir,passé récent,je,viens de avoir
-avoir,passé récent,tu,viens de avoir
-avoir,passé récent,il,vient de avoir
-avoir,passé récent,nous,venons de avoir
-avoir,passé récent,vous,venez de avoir
-avoir,passé récent,ils,viennent de avoir
-être,passé récent,je,viens de être
-être,passé récent,tu,viens de être
-être,passé récent,il,vient de être
-être,passé récent,nous,venons de être
-être,passé récent,vous,venez de être
-être,passé récent,ils,viennent de être
-aller,futur proche,je,vais aller
-aller,futur proche,tu,vas aller
-aller,futur proche,il,va aller
-aller,futur proche,nous,allons aller
-aller,futur proche,vous,allez aller
-aller,futur proche,ils,vont aller
-faire,futur proche,je,vais faire
-faire,futur proche,tu,vas faire
-faire,futur proche,il,va faire
-faire,futur proche,nous,allons faire
-faire,futur proche,vous,allez faire
-faire,futur proche,ils,vont faire
-avoir,futur proche,je,vais avoir
-avoir,futur proche,tu,vas avoir
-avoir,futur proche,il,va avoir
-avoir,futur proche,nous,allons avoir
-avoir,futur proche,vous,allez avoir
-avoir,futur proche,ils,vont avoir
-être,futur proche,je,vais être
-être,futur proche,tu,vas être
-être,futur proche,il,va être
-être,futur proche,nous,allons être
-être,futur proche,vous,allez être
-être,futur proche,ils,vont être
-croire,futur antérieur,je,aurai cru
-croire,futur antérieur,tu,auras cru
-croire,futur antérieur,il,aura cru
-croire,futur antérieur,nous,aurons cru
-croire,futur antérieur,vous,aurez cru
-croire,futur antérieur,ils,auront cru
-suivre,futur antérieur,je,aurai suivi
-suivre,futur antérieur,tu,auras suivi
-suivre,futur antérieur,il,aura suivi
-suivre,futur antérieur,nous,aurons suivi
-suivre,futur antérieur,vous,aurez suivi
-suivre,futur antérieur,ils,auront suivi
-prendre,futur antérieur,je,aurai pris
-prendre,futur antérieur,tu,auras pris
-prendre,futur antérieur,il,aura pris
-prendre,futur antérieur,nous,aurons pris
-prendre,futur antérieur,vous,aurez pris
-prendre,futur antérieur,ils,auront pris
-venir,futur antérieur,je,serai venu
-venir,futur antérieur,tu,seras venu
-venir,futur antérieur,il,sera venu
-venir,futur antérieur,nous,serons venus
-venir,futur antérieur,vous,serez venus
-venir,futur antérieur,ils,seront venus
-devoir,futur antérieur,je,aurai dû
-devoir,futur antérieur,tu,auras dû
-devoir,futur antérieur,il,aura dû
-devoir,futur antérieur,nous,aurons dû
-devoir,futur antérieur,vous,aurez dû
-devoir,futur antérieur,ils,auront dû
-savoir,futur antérieur,je,aurai su
-savoir,futur antérieur,tu,auras su
-savoir,futur antérieur,il,aura su
-savoir,futur antérieur,nous,aurons su
-savoir,futur antérieur,vous,aurez su
-savoir,futur antérieur,ils,auront su
-voir,futur antérieur,je,aurai vu
-voir,futur antérieur,tu,auras vu
-voir,futur antérieur,il,aura vu
-voir,futur antérieur,nous,aurons vu
-voir,futur antérieur,vous,aurez vu
-voir,futur antérieur,ils,auront vu
-vouloir,futur antérieur,je,aurai voulu
-vouloir,futur antérieur,tu,auras voulu
-vouloir,futur antérieur,il,aura voulu
-vouloir,futur antérieur,nous,aurons voulu
-vouloir,futur antérieur,vous,aurez voulu
-vouloir,futur antérieur,ils,auront voulu
-pouvoir,futur antérieur,je,aurai pu
-pouvoir,futur antérieur,tu,auras pu
-pouvoir,futur antérieur,il,aura pu
-pouvoir,futur antérieur,nous,aurons pu
-pouvoir,futur antérieur,vous,aurez pu
-pouvoir,futur antérieur,ils,auront pu
-dire,futur antérieur,je,aurai dit
-dire,futur antérieur,tu,auras dit
-dire,futur antérieur,il,aura dit
-dire,futur antérieur,nous,aurons dit
-dire,futur antérieur,vous,aurez dit
-dire,futur antérieur,ils,auront dit
-aller,futur antérieur,je,serai allé
-aller,futur antérieur,tu,seras allé
-aller,futur antérieur,il,sera allé
-aller,futur antérieur,nous,serons allés
-aller,futur antérieur,vous,serez allés
-aller,futur antérieur,ils,seront allés
-faire,futur antérieur,je,aurai fait
-faire,futur antérieur,tu,auras fait
-faire,futur antérieur,il,aura fait
-faire,futur antérieur,nous,aurons fait
-faire,futur antérieur,vous,aurez fait
-faire,futur antérieur,ils,auront fait
-avoir,futur antérieur,je,aurai eu
-avoir,futur antérieur,tu,auras eu
-avoir,futur antérieur,il,aura eu
-avoir,futur antérieur,nous,aurons eu
-avoir,futur antérieur,vous,aurez eu
-avoir,futur antérieur,ils,auront eu
-être,futur antérieur,je,aurai été
-être,futur antérieur,tu,auras été
-être,futur antérieur,il,aura été
-être,futur antérieur,nous,aurons été
-être,futur antérieur,vous,aurez été
-être,futur antérieur,ils,auront été
-croire,conditionnel présent,je,croirais
-croire,conditionnel présent,tu,croirais
-croire,conditionnel présent,il,croirait
-croire,conditionnel présent,nous,croirions
-croire,conditionnel présent,vous,croiriez
-croire,conditionnel présent,ils,croiraient
-suivre,conditionnel présent,je,suivrais
-suivre,conditionnel présent,tu,suivrais
-suivre,conditionnel présent,il,suivrait
-suivre,conditionnel présent,nous,suivrions
-suivre,conditionnel présent,vous,suivriez
-suivre,conditionnel présent,ils,suivraient
-prendre,conditionnel présent,je,prendrais
-prendre,conditionnel présent,tu,prendrais
-prendre,conditionnel présent,il,prendrait
-prendre,conditionnel présent,nous,prendrions
-prendre,conditionnel présent,vous,prendriez
-prendre,conditionnel présent,ils,prendraient
-venir,conditionnel présent,je,viendrais
-venir,conditionnel présent,tu,viendrais
-venir,conditionnel présent,il,viendrait
-venir,conditionnel présent,nous,viendrions
-venir,conditionnel présent,vous,viendriez
-venir,conditionnel présent,ils,viendraient
-devoir,conditionnel présent,je,devrais
-devoir,conditionnel présent,tu,devrais
-devoir,conditionnel présent,il,devrait
-devoir,conditionnel présent,nous,devrions
-devoir,conditionnel présent,vous,devriez
-devoir,conditionnel présent,ils,devraient
-savoir,conditionnel présent,je,saurais
-savoir,conditionnel présent,tu,saurais
-savoir,conditionnel présent,il,saurait
-savoir,conditionnel présent,nous,saurions
-savoir,conditionnel présent,vous,sauriez
-savoir,conditionnel présent,ils,sauraient
-voir,conditionnel présent,je,verrais
-voir,conditionnel présent,tu,verrais
-voir,conditionnel présent,il,verrait
-voir,conditionnel présent,nous,verrions
-voir,conditionnel présent,vous,verriez
-voir,conditionnel présent,ils,verraient
-vouloir,conditionnel présent,je,voudrais
-vouloir,conditionnel présent,tu,voudrais
-vouloir,conditionnel présent,il,voudrait
-vouloir,conditionnel présent,nous,voudrions
-vouloir,conditionnel présent,vous,voudriez
-vouloir,conditionnel présent,ils,voudraient
-pouvoir,conditionnel présent,je,pourrais
-pouvoir,conditionnel présent,tu,pourrais
-pouvoir,conditionnel présent,il,pourrait
-pouvoir,conditionnel présent,nous,pourrions
-pouvoir,conditionnel présent,vous,pourriez
-pouvoir,conditionnel présent,ils,pourraient
-dire,conditionnel présent,je,dirais
-dire,conditionnel présent,tu,dirais
-dire,conditionnel présent,il,dirait
-dire,conditionnel présent,nous,dirions
-dire,conditionnel présent,vous,diriez
-dire,conditionnel présent,ils,diraient
-aller,conditionnel présent,je,irais
-aller,conditionnel présent,tu,irais
-aller,conditionnel présent,il,irait
-aller,conditionnel présent,nous,irions
-aller,conditionnel présent,vous,iriez
-aller,conditionnel présent,ils,iraient
-faire,conditionnel présent,je,ferais
-faire,conditionnel présent,tu,ferais
-faire,conditionnel présent,il,ferait
-faire,conditionnel présent,nous,ferions
-faire,conditionnel présent,vous,feriez
-faire,conditionnel présent,ils,feraient
-avoir,conditionnel présent,je,aurais
-avoir,conditionnel présent,tu,aurais
-avoir,conditionnel présent,il,aurait
-avoir,conditionnel présent,nous,aurions
-avoir,conditionnel présent,vous,auriez
-avoir,conditionnel présent,ils,auraient
-être,conditionnel présent,je,serais
-être,conditionnel présent,tu,serais
-être,conditionnel présent,il,serait
-être,conditionnel présent,nous,serions
-être,conditionnel présent,vous,seriez
-être,conditionnel présent,ils,seraient
-croire,conditionnel passé,je,aurais cru
-croire,conditionnel passé,tu,aurais cru
-croire,conditionnel passé,il,aurait cru
-croire,conditionnel passé,nous,aurions cru
-croire,conditionnel passé,vous,auriez cru
-croire,conditionnel passé,ils,auraient cru
-suivre,conditionnel passé,je,aurais suivi
-suivre,conditionnel passé,tu,aurais suivi
-suivre,conditionnel passé,il,aurait suivi
-suivre,conditionnel passé,nous,aurions suivi
-suivre,conditionnel passé,vous,auriez suivi
-suivre,conditionnel passé,ils,auraient suivi
-prendre,conditionnel passé,je,aurais pris
-prendre,conditionnel passé,tu,aurais pris
-prendre,conditionnel passé,il,aurait pris
-prendre,conditionnel passé,nous,aurions pris
-prendre,conditionnel passé,vous,auriez pris
-prendre,conditionnel passé,ils,auraient pris
-venir,conditionnel passé,je,serais venu
-venir,conditionnel passé,tu,serais venu
-venir,conditionnel passé,il,serait venu
-venir,conditionnel passé,nous,serions venus
-venir,conditionnel passé,vous,seriez venus
-venir,conditionnel passé,ils,seraient venus
-devoir,conditionnel passé,je,aurais dû
-devoir,conditionnel passé,tu,aurais dû
-devoir,conditionnel passé,il,aurait dû
-devoir,conditionnel passé,nous,aurions dû
-devoir,conditionnel passé,vous,auriez dû
-devoir,conditionnel passé,ils,auraient dû
-savoir,conditionnel passé,je,aurais su
-savoir,conditionnel passé,tu,aurais su
-savoir,conditionnel passé,il,aurait su
-savoir,conditionnel passé,nous,aurions su
-savoir,conditionnel passé,vous,auriez su
-savoir,conditionnel passé,ils,auraient su
-voir,conditionnel passé,je,aurais vu
-voir,conditionnel passé,tu,aurais vu
-voir,conditionnel passé,il,aurait vu
-voir,conditionnel passé,nous,aurions vu
-voir,conditionnel passé,vous,auriez vu
-voir,conditionnel passé,ils,auraient vu
-vouloir,conditionnel passé,je,aurais voulu
-vouloir,conditionnel passé,tu,aurais voulu
-vouloir,conditionnel passé,il,aurait voulu
-vouloir,conditionnel passé,nous,aurions voulu
-vouloir,conditionnel passé,vous,auriez voulu
-vouloir,conditionnel passé,ils,auraient voulu
-pouvoir,conditionnel passé,je,aurais pu
-pouvoir,conditionnel passé,tu,aurais pu
-pouvoir,conditionnel passé,il,aurait pu
-pouvoir,conditionnel passé,nous,aurions pu
-pouvoir,conditionnel passé,vous,auriez pu
-pouvoir,conditionnel passé,ils,auraient pu
-dire,conditionnel passé,je,aurais dit
-dire,conditionnel passé,tu,aurais dit
-dire,conditionnel passé,il,aurait dit
-dire,conditionnel passé,nous,aurions dit
-dire,conditionnel passé,vous,auriez dit
-dire,conditionnel passé,ils,auraient dit
-aller,conditionnel passé,je,serais allé
-aller,conditionnel passé,tu,serais allé
-aller,conditionnel passé,il,serait allé
-aller,conditionnel passé,nous,serions allés
-aller,conditionnel passé,vous,seriez allés
-aller,conditionnel passé,ils,seraient allés
-faire,conditionnel passé,je,aurais fait
-faire,conditionnel passé,tu,aurais fait
-faire,conditionnel passé,il,aurait fait
-faire,conditionnel passé,nous,aurions fait
-faire,conditionnel passé,vous,auriez fait
-faire,conditionnel passé,ils,auraient fait
-avoir,conditionnel passé,je,aurais eu
-avoir,conditionnel passé,tu,aurais eu
-avoir,conditionnel passé,il,aurait eu
-avoir,conditionnel passé,nous,aurions eu
-avoir,conditionnel passé,vous,auriez eu
-avoir,conditionnel passé,ils,auraient eu
-être,conditionnel passé,je,aurais été
-être,conditionnel passé,tu,aurais été
-être,conditionnel passé,il,aurait été
-être,conditionnel passé,nous,aurions été
-être,conditionnel passé,vous,auriez été
-être,conditionnel passé,ils,auraient été
-croire,subjonctif présent,je,croie
-croire,subjonctif présent,tu,croies
-croire,subjonctif présent,il,croie
-croire,subjonctif présent,nous,croyions
-croire,subjonctif présent,vous,croyiez
-croire,subjonctif présent,ils,croient
-suivre,subjonctif présent,je,suive
-suivre,subjonctif présent,tu,suives
-suivre,subjonctif présent,il,suive
-suivre,subjonctif présent,nous,suivions
-suivre,subjonctif présent,vous,suiviez
-suivre,subjonctif présent,ils,suivent
-prendre,subjonctif présent,je,prenne
-prendre,subjonctif présent,tu,prennes
-prendre,subjonctif présent,il,prenne
-prendre,subjonctif présent,nous,prenions
-prendre,subjonctif présent,vous,preniez
-prendre,subjonctif présent,ils,prennent
-venir,subjonctif présent,je,vienne
-venir,subjonctif présent,tu,viennes
-venir,subjonctif présent,il,vienne
-venir,subjonctif présent,nous,venions
-venir,subjonctif présent,vous,veniez
-venir,subjonctif présent,ils,viennent
-devoir,subjonctif présent,je,doive
-devoir,subjonctif présent,tu,doives
-devoir,subjonctif présent,il,doive
-devoir,subjonctif présent,nous,devions
-devoir,subjonctif présent,vous,deviez
-devoir,subjonctif présent,ils,doivent
-voir,subjonctif présent,je,voie
-voir,subjonctif présent,tu,voies
-voir,subjonctif présent,il,voie
-voir,subjonctif présent,nous,voyions
-voir,subjonctif présent,vous,voyiez
-voir,subjonctif présent,ils,voient
-dire,subjonctif présent,je,dise
-dire,subjonctif présent,tu,dises
-dire,subjonctif présent,il,dise
-dire,subjonctif présent,nous,disions
-dire,subjonctif présent,vous,disiez
-dire,subjonctif présent,ils,disent
-aller,subjonctif présent,je,aille
-aller,subjonctif présent,tu,ailles
-aller,subjonctif présent,il,aille
-aller,subjonctif présent,nous,allions
-aller,subjonctif présent,vous,alliez
-aller,subjonctif présent,ils,aillent
-savoir,subjonctif présent,je,sache
-savoir,subjonctif présent,tu,saches
-savoir,subjonctif présent,il,sache
-savoir,subjonctif présent,nous,sachions
-savoir,subjonctif présent,vous,sachiez
-savoir,subjonctif présent,ils,sachent
-vouloir,subjonctif présent,je,veuille
-vouloir,subjonctif présent,tu,veuilles
-vouloir,subjonctif présent,il,veuille
-vouloir,subjonctif présent,nous,voulions
-vouloir,subjonctif présent,vous,vouliez
-vouloir,subjonctif présent,ils,veuillent
-pouvoir,subjonctif présent,je,puisse
-pouvoir,subjonctif présent,tu,puisses
-pouvoir,subjonctif présent,il,puisse
-pouvoir,subjonctif présent,nous,puissions
-pouvoir,subjonctif présent,vous,puissiez
-pouvoir,subjonctif présent,ils,puissent
-faire,subjonctif présent,je,fasse
-faire,subjonctif présent,tu,fasses
-faire,subjonctif présent,il,fasse
-faire,subjonctif présent,nous,fassions
-faire,subjonctif présent,vous,fassiez
-faire,subjonctif présent,ils,fassent
-avoir,subjonctif présent,je,aie
-avoir,subjonctif présent,tu,aies
-avoir,subjonctif présent,il,ait
-avoir,subjonctif présent,nous,ayons
-avoir,subjonctif présent,vous,ayez
-avoir,subjonctif présent,ils,aient
-être,subjonctif présent,je,sois
-être,subjonctif présent,tu,sois
-être,subjonctif présent,il,soit
-être,subjonctif présent,nous,soyons
-être,subjonctif présent,vous,soyez
-être,subjonctif présent,ils,soient
-croire,subjonctif passé,je,aie cru
-croire,subjonctif passé,tu,aies cru
-croire,subjonctif passé,il,ait cru
-croire,subjonctif passé,nous,ayons cru
-croire,subjonctif passé,vous,ayez cru
-croire,subjonctif passé,ils,aient cru
-suivre,subjonctif passé,je,aie suivi
-suivre,subjonctif passé,tu,aies suivi
-suivre,subjonctif passé,il,ait suivi
-suivre,subjonctif passé,nous,ayons suivi
-suivre,subjonctif passé,vous,ayez suivi
-suivre,subjonctif passé,ils,aient suivi
-prendre,subjonctif passé,je,aie pris
-prendre,subjonctif passé,tu,aies pris
-prendre,subjonctif passé,il,ait pris
-prendre,subjonctif passé,nous,ayons pris
-prendre,subjonctif passé,vous,ayez pris
-prendre,subjonctif passé,ils,aient pris
-venir,subjonctif passé,je,sois venu
-venir,subjonctif passé,tu,sois venu
-venir,subjonctif passé,il,soit venu
-venir,subjonctif passé,nous,soyons venus
-venir,subjonctif passé,vous,soyez venus
-venir,subjonctif passé,ils,soient venus
-devoir,subjonctif passé,je,aie dû
-devoir,subjonctif passé,tu,aies dû
-devoir,subjonctif passé,il,ait dû
-devoir,subjonctif passé,nous,ayons dû
-devoir,subjonctif passé,vous,ayez dû
-devoir,subjonctif passé,ils,aient dû
-savoir,subjonctif passé,je,aie su
-savoir,subjonctif passé,tu,aies su
-savoir,subjonctif passé,il,ait su
-savoir,subjonctif passé,nous,ayons su
-savoir,subjonctif passé,vous,ayez su
-savoir,subjonctif passé,ils,aient su
-voir,subjonctif passé,je,aie vu
-voir,subjonctif passé,tu,aies vu
-voir,subjonctif passé,il,ait vu
-voir,subjonctif passé,nous,ayons vu
-voir,subjonctif passé,vous,ayez vu
-voir,subjonctif passé,ils,aient vu
-vouloir,subjonctif passé,je,aie voulu
-vouloir,subjonctif passé,tu,aies voulu
-vouloir,subjonctif passé,il,ait voulu
-vouloir,subjonctif passé,nous,ayons voulu
-vouloir,subjonctif passé,vous,ayez voulu
-vouloir,subjonctif passé,ils,aient voulu
-pouvoir,subjonctif passé,je,aie pu
-pouvoir,subjonctif passé,tu,aies pu
-pouvoir,subjonctif passé,il,ait pu
-pouvoir,subjonctif passé,nous,ayons pu
-pouvoir,subjonctif passé,vous,ayez pu
-pouvoir,subjonctif passé,ils,aient pu
-dire,subjonctif passé,je,aie dit
-dire,subjonctif passé,tu,aies dit
-dire,subjonctif passé,il,ait dit
-dire,subjonctif passé,nous,ayons dit
-dire,subjonctif passé,vous,ayez dit
-dire,subjonctif passé,ils,aient dit
-aller,subjonctif passé,je,sois allé
-aller,subjonctif passé,tu,sois allé
-aller,subjonctif passé,il,soit allé
-aller,subjonctif passé,nous,soyons allés
-aller,subjonctif passé,vous,soyez allés
-aller,subjonctif passé,ils,soient allés
-faire,subjonctif passé,je,aie fait
-faire,subjonctif passé,tu,aies fait
-faire,subjonctif passé,il,ait fait
-faire,subjonctif passé,nous,ayons fait
-faire,subjonctif passé,vous,ayez fait
-faire,subjonctif passé,ils,aient fait
-avoir,subjonctif passé,je,aie eu
-avoir,subjonctif passé,tu,aies eu
-avoir,subjonctif passé,il,ait eu
-avoir,subjonctif passé,nous,ayons eu
-avoir,subjonctif passé,vous,ayez eu
-avoir,subjonctif passé,ils,aient eu
-être,subjonctif passé,je,aie été
-être,subjonctif passé,tu,aies été
-être,subjonctif passé,il,ait été
-être,subjonctif passé,nous,ayons été
-être,subjonctif passé,vous,ayez été
-être,subjonctif passé,ils,aient été
-croire,impératif,tu,crois
-croire,impératif,nous,croyons
-croire,impératif,vous,croyez
-suivre,impératif,tu,suis
-suivre,impératif,nous,suivons
-suivre,impératif,vous,suivez
-prendre,impératif,tu,prends
-prendre,impératif,nous,prenons
-prendre,impératif,vous,prenez
-venir,impératif,tu,viens
-venir,impératif,nous,venons
-venir,impératif,vous,venez
-savoir,impératif,tu,sache
-savoir,impératif,nous,sachons
-savoir,impératif,vous,sachez
-voir,impératif,tu,vois
-voir,impératif,nous,voyons
-voir,impératif,vous,voyez
-dire,impératif,tu,dis
-dire,impératif,nous,disons
-dire,impératif,vous,dites
-aller,impératif,tu,va
-aller,impératif,nous,allons
-aller,impératif,vous,allez
-faire,impératif,tu,fais
-faire,impératif,nous,faisons
-faire,impératif,vous,faites
-avoir,impératif,tu,aie
-avoir,impératif,nous,ayons
-avoir,impératif,vous,ayez
-être,impératif,tu,sois
-être,impératif,nous,soyons
-être,impératif,vous,soyez
+kind,verb,tense,person,form
+single,acheter,présent,je,achète
+table,préférer,présent,je,préfère
+table,préférer,présent,tu,préfères
+table,préférer,présent,il,préfère
+table,préférer,présent,nous,préférons
+table,préférer,présent,vous,préférez
+table,préférer,présent,ils,préfèrent
+table,payer,présent,je,paie
+table,payer,présent,tu,paies
+table,payer,présent,il,paie
+table,payer,présent,nous,payons
+table,payer,présent,vous,payez
+table,payer,présent,ils,paient
+table,appeler,présent,je,appelle
+table,appeler,présent,tu,appelles
+table,appeler,présent,il,appelle
+table,appeler,présent,nous,appelons
+table,appeler,présent,vous,appelez
+table,appeler,présent,ils,appellent
+table,acheter,présent,je,achète
+table,acheter,présent,tu,achètes
+table,acheter,présent,il,achète
+table,acheter,présent,nous,achetons
+table,acheter,présent,vous,achetez
+table,acheter,présent,ils,achètent
+table,commencer,présent,je,commence
+table,commencer,présent,tu,commences
+table,commencer,présent,il,commence
+table,commencer,présent,nous,commençons
+table,commencer,présent,vous,commencez
+table,commencer,présent,ils,commencent
+table,manger,présent,je,mange
+table,manger,présent,tu,manges
+table,manger,présent,il,mange
+table,manger,présent,nous,mangeons
+table,manger,présent,vous,mangez
+table,manger,présent,ils,mangent
+single,appeler,présent,ils,appellent
+single,appeler,présent,je,appelle
+single,appeler,futur simple,je,appellerai
+single,appeler,subjonctif,je,appelle
+single,essayer,présent,je,essaie
+single,essayer,présent,ils,essaient
+single,essayer,futur simple,je,essaierai
+single,essayer,subjonctif,il,essaie
+single,commencer,présent,nous,commençons
+single,manger,présent,nous,mangeons
+single,jeter,présent,tu,jettes
+single,boire,présent,nous,buvons
+table,suivre,présent,je,suis
+table,suivre,présent,tu,suis
+table,suivre,présent,il,suit
+table,suivre,présent,nous,suivons
+table,suivre,présent,vous,suivez
+table,suivre,présent,ils,suivent
+table,croire,présent,je,crois
+table,croire,présent,tu,crois
+table,croire,présent,il,croit
+table,croire,présent,nous,croyons
+table,croire,présent,vous,croyez
+table,croire,présent,ils,croient
+table,prendre,présent,je,prends
+table,prendre,présent,tu,prends
+table,prendre,présent,il,prend
+table,prendre,présent,nous,prenons
+table,prendre,présent,vous,prenez
+table,prendre,présent,ils,prennent
+table,venir,présent,je,viens
+table,venir,présent,tu,viens
+table,venir,présent,il,vient
+table,venir,présent,nous,venons
+table,venir,présent,vous,venez
+table,venir,présent,ils,viennent
+table,devoir,présent,je,dois
+table,devoir,présent,tu,dois
+table,devoir,présent,il,doit
+table,devoir,présent,nous,devons
+table,devoir,présent,vous,devez
+table,devoir,présent,ils,doivent
+table,savoir,présent,je,sais
+table,savoir,présent,tu,sais
+table,savoir,présent,il,sait
+table,savoir,présent,nous,savons
+table,savoir,présent,vous,savez
+table,savoir,présent,ils,savent
+table,voir,présent,je,vois
+table,voir,présent,tu,vois
+table,voir,présent,il,voit
+table,voir,présent,nous,voyons
+table,voir,présent,vous,voyez
+table,voir,présent,ils,voient
+table,vouloir,présent,je,veux
+table,vouloir,présent,tu,veux
+table,vouloir,présent,il,veut
+table,vouloir,présent,nous,voulons
+table,vouloir,présent,vous,voulez
+table,vouloir,présent,ils,veulent
+table,pouvoir,présent,je,peux
+table,pouvoir,présent,tu,peux
+table,pouvoir,présent,il,peut
+table,pouvoir,présent,nous,pouvons
+table,pouvoir,présent,vous,pouvez
+table,pouvoir,présent,ils,peuvent
+table,dire,présent,je,dis
+table,dire,présent,tu,dis
+table,dire,présent,il,dit
+table,dire,présent,nous,disons
+table,dire,présent,vous,dites
+table,dire,présent,ils,disent
+table,aller,présent,je,vais
+table,aller,présent,tu,vas
+table,aller,présent,il,va
+table,aller,présent,nous,allons
+table,aller,présent,vous,allez
+table,aller,présent,ils,vont
+table,faire,présent,je,fais
+table,faire,présent,tu,fais
+table,faire,présent,il,fait
+table,faire,présent,nous,faisons
+table,faire,présent,vous,faites
+table,faire,présent,ils,font
+table,avoir,présent,je,ai
+table,avoir,présent,tu,as
+table,avoir,présent,il,a
+table,avoir,présent,nous,avons
+table,avoir,présent,vous,avez
+table,avoir,présent,ils,ont
+table,être,présent,je,suis
+table,être,présent,tu,es
+table,être,présent,il,est
+table,être,présent,nous,sommes
+table,être,présent,vous,êtes
+table,être,présent,ils,sont
+single,croire,présent,ils,croient
+single,être,présent,je,suis
+single,être,présent,nous,sommes
+single,être,présent,ils,sont
+single,avoir,présent,je,ai
+single,avoir,présent,nous,avons
+single,avoir,présent,ils,ont
+single,faire,présent,je,fais
+single,faire,présent,nous,faisons
+single,faire,présent,ils,font
+single,aller,présent,je,vais
+single,aller,présent,nous,allons
+single,aller,présent,ils,vont
+single,dire,présent,je,dis
+single,dire,présent,nous,disons
+single,dire,présent,ils,disent
+single,pouvoir,présent,je,peux
+single,pouvoir,présent,nous,pouvons
+single,pouvoir,présent,ils,peuvent
+single,vouloir,présent,je,veux
+single,vouloir,présent,nous,voulons
+single,vouloir,présent,ils,veulent
+single,voir,présent,je,vois
+single,voir,présent,nous,voyons
+single,voir,présent,ils,voient
+single,savoir,présent,je,sais
+single,savoir,présent,nous,savons
+single,savoir,présent,ils,savent
+single,devoir,présent,je,dois
+single,devoir,présent,nous,devons
+single,devoir,présent,ils,doivent
+single,venir,présent,je,viens
+single,venir,présent,nous,venons
+single,venir,présent,ils,viennent
+single,prendre,présent,je,prends
+single,prendre,présent,nous,prenons
+single,prendre,présent,ils,prennent
+single,suivre,présent,je,suis
+single,suivre,présent,nous,suivons
+single,suivre,présent,ils,suivent
+single,falloir,présent,il,faut
+single,croire,présent,je,crois
+single,croire,présent,nous,croyons
+single,mettre,présent,je,mets
+single,mettre,présent,nous,mettons
+single,mettre,présent,ils,mettent
+single,attendre,présent,je,attends
+single,attendre,présent,nous,attendons
+single,attendre,présent,ils,attendent
+single,partir,présent,je,pars
+single,partir,présent,nous,partons
+single,partir,présent,ils,partent
+single,connaître,présent,je,connais
+single,connaître,présent,nous,connaissons
+single,connaître,présent,ils,connaissent
+single,sortir,présent,je,sors
+single,sortir,présent,nous,sortons
+single,sortir,présent,ils,sortent
+single,comprendre,présent,je,comprends
+single,comprendre,présent,nous,comprenons
+single,comprendre,présent,ils,comprennent
+single,entendre,présent,je,entends
+single,entendre,présent,nous,entendons
+single,entendre,présent,ils,entendent
+single,mourir,présent,je,meurs
+single,mourir,présent,nous,mourons
+single,mourir,présent,ils,meurent
+single,sentir,présent,je,sens
+single,sentir,présent,nous,sentons
+single,sentir,présent,ils,sentent
+single,tenir,présent,je,tiens
+single,tenir,présent,nous,tenons
+single,tenir,présent,ils,tiennent
+single,revenir,présent,je,reviens
+single,revenir,présent,nous,revenons
+single,revenir,présent,ils,reviennent
+single,rendre,présent,je,rends
+single,rendre,présent,nous,rendons
+single,rendre,présent,ils,rendent
+single,finir,présent,je,finis
+single,finir,présent,nous,finissons
+single,finir,présent,ils,finissent
+single,devenir,présent,je,deviens
+single,devenir,présent,nous,devenons
+single,devenir,présent,ils,deviennent
+single,vivre,présent,je,vis
+single,vivre,présent,nous,vivons
+single,vivre,présent,ils,vivent
+single,perdre,présent,je,perds
+single,perdre,présent,nous,perdons
+single,perdre,présent,ils,perdent
+single,ouvrir,présent,je,ouvre
+single,ouvrir,présent,nous,ouvrons
+single,ouvrir,présent,ils,ouvrent
+single,recevoir,présent,vous,recevez
+single,s'asseoir,présent,je,m'assieds
+table,croire,passé composé,je,ai cru
+table,croire,passé composé,tu,as cru
+table,croire,passé composé,il,a cru
+table,croire,passé composé,nous,avons cru
+table,croire,passé composé,vous,avez cru
+table,croire,passé composé,ils,ont cru
+table,suivre,passé composé,je,ai suivi
+table,suivre,passé composé,tu,as suivi
+table,suivre,passé composé,il,a suivi
+table,suivre,passé composé,nous,avons suivi
+table,suivre,passé composé,vous,avez suivi
+table,suivre,passé composé,ils,ont suivi
+table,prendre,passé composé,je,ai pris
+table,prendre,passé composé,tu,as pris
+table,prendre,passé composé,il,a pris
+table,prendre,passé composé,nous,avons pris
+table,prendre,passé composé,vous,avez pris
+table,prendre,passé composé,ils,ont pris
+table,venir,passé composé,je,suis venu
+table,venir,passé composé,tu,es venu
+table,venir,passé composé,il,est venu
+table,venir,passé composé,nous,sommes venus
+table,venir,passé composé,vous,êtes venus
+table,venir,passé composé,ils,sont venus
+table,devoir,passé composé,je,ai dû
+table,devoir,passé composé,tu,as dû
+table,devoir,passé composé,il,a dû
+table,devoir,passé composé,nous,avons dû
+table,devoir,passé composé,vous,avez dû
+table,devoir,passé composé,ils,ont dû
+table,savoir,passé composé,je,ai su
+table,savoir,passé composé,tu,as su
+table,savoir,passé composé,il,a su
+table,savoir,passé composé,nous,avons su
+table,savoir,passé composé,vous,avez su
+table,savoir,passé composé,ils,ont su
+table,voir,passé composé,je,ai vu
+table,voir,passé composé,tu,as vu
+table,voir,passé composé,il,a vu
+table,voir,passé composé,nous,avons vu
+table,voir,passé composé,vous,avez vu
+table,voir,passé composé,ils,ont vu
+table,vouloir,passé composé,je,ai voulu
+table,vouloir,passé composé,tu,as voulu
+table,vouloir,passé composé,il,a voulu
+table,vouloir,passé composé,nous,avons voulu
+table,vouloir,passé composé,vous,avez voulu
+table,vouloir,passé composé,ils,ont voulu
+table,pouvoir,passé composé,je,ai pu
+table,pouvoir,passé composé,tu,as pu
+table,pouvoir,passé composé,il,a pu
+table,pouvoir,passé composé,nous,avons pu
+table,pouvoir,passé composé,vous,avez pu
+table,pouvoir,passé composé,ils,ont pu
+table,dire,passé composé,je,ai dit
+table,dire,passé composé,tu,as dit
+table,dire,passé composé,il,a dit
+table,dire,passé composé,nous,avons dit
+table,dire,passé composé,vous,avez dit
+table,dire,passé composé,ils,ont dit
+table,aller,passé composé,je,suis allé
+table,aller,passé composé,tu,es allé
+table,aller,passé composé,il,est allé
+table,aller,passé composé,nous,sommes allés
+table,aller,passé composé,vous,êtes allés
+table,aller,passé composé,ils,sont allés
+table,faire,passé composé,je,ai fait
+table,faire,passé composé,tu,as fait
+table,faire,passé composé,il,a fait
+table,faire,passé composé,nous,avons fait
+table,faire,passé composé,vous,avez fait
+table,faire,passé composé,ils,ont fait
+table,avoir,passé composé,je,ai eu
+table,avoir,passé composé,tu,as eu
+table,avoir,passé composé,il,a eu
+table,avoir,passé composé,nous,avons eu
+table,avoir,passé composé,vous,avez eu
+table,avoir,passé composé,ils,ont eu
+table,être,passé composé,je,ai été
+table,être,passé composé,tu,as été
+table,être,passé composé,il,a été
+table,être,passé composé,nous,avons été
+table,être,passé composé,vous,avez été
+table,être,passé composé,ils,ont été
+single,être,participe passé,,été
+single,avoir,participe passé,,eu
+single,faire,participe passé,,fait
+single,aller,participe passé,,allé
+single,dire,participe passé,,dit
+single,pouvoir,participe passé,,pu
+single,vouloir,participe passé,,voulu
+single,voir,participe passé,,vu
+single,savoir,participe passé,,su
+single,devoir,participe passé,,dû
+single,venir,participe passé,,venu
+single,prendre,participe passé,,pris
+single,suivre,participe passé,,suivi
+single,falloir,participe passé,,fallu
+single,croire,participe passé,,cru
+single,mettre,participe passé,,mis
+single,attendre,participe passé,,attendu
+single,partir,participe passé,,parti
+single,connaître,participe passé,,connu
+single,sortir,participe passé,,sorti
+single,comprendre,participe passé,,compris
+single,entendre,participe passé,,entendu
+single,mourir,participe passé,,mort
+single,sentir,participe passé,,senti
+single,tenir,participe passé,,tenu
+single,revenir,participe passé,,revenu
+single,rendre,participe passé,,rendu
+single,finir,participe passé,,fini
+single,devenir,participe passé,,devenu
+single,vivre,participe passé,,vécu
+single,perdre,participe passé,,perdu
+single,ouvrir,participe passé,,ouvert
+single,faire,passé composé,vous,avez fait
+table,croire,imparfait,je,croyais
+table,croire,imparfait,tu,croyais
+table,croire,imparfait,il,croyait
+table,croire,imparfait,nous,croyions
+table,croire,imparfait,vous,croyiez
+table,croire,imparfait,ils,croyaient
+table,suivre,imparfait,je,suivais
+table,suivre,imparfait,tu,suivais
+table,suivre,imparfait,il,suivait
+table,suivre,imparfait,nous,suivions
+table,suivre,imparfait,vous,suiviez
+table,suivre,imparfait,ils,suivaient
+table,prendre,imparfait,je,prenais
+table,prendre,imparfait,tu,prenais
+table,prendre,imparfait,il,prenait
+table,prendre,imparfait,nous,prenions
+table,prendre,imparfait,vous,preniez
+table,prendre,imparfait,ils,prenaient
+table,venir,imparfait,je,venais
+table,venir,imparfait,tu,venais
+table,venir,imparfait,il,venait
+table,venir,imparfait,nous,venions
+table,venir,imparfait,vous,veniez
+table,venir,imparfait,ils,venaient
+table,devoir,imparfait,je,devais
+table,devoir,imparfait,tu,devais
+table,devoir,imparfait,il,devait
+table,devoir,imparfait,nous,devions
+table,devoir,imparfait,vous,deviez
+table,devoir,imparfait,ils,devaient
+table,savoir,imparfait,je,savais
+table,savoir,imparfait,tu,savais
+table,savoir,imparfait,il,savait
+table,savoir,imparfait,nous,savions
+table,savoir,imparfait,vous,saviez
+table,savoir,imparfait,ils,savaient
+table,voir,imparfait,je,voyais
+table,voir,imparfait,tu,voyais
+table,voir,imparfait,il,voyait
+table,voir,imparfait,nous,voyions
+table,voir,imparfait,vous,voyiez
+table,voir,imparfait,ils,voyaient
+table,vouloir,imparfait,je,voulais
+table,vouloir,imparfait,tu,voulais
+table,vouloir,imparfait,il,voulait
+table,vouloir,imparfait,nous,voulions
+table,vouloir,imparfait,vous,vouliez
+table,vouloir,imparfait,ils,voulaient
+table,pouvoir,imparfait,je,pouvais
+table,pouvoir,imparfait,tu,pouvais
+table,pouvoir,imparfait,il,pouvait
+table,pouvoir,imparfait,nous,pouvions
+table,pouvoir,imparfait,vous,pouviez
+table,pouvoir,imparfait,ils,pouvaient
+table,dire,imparfait,je,disais
+table,dire,imparfait,tu,disais
+table,dire,imparfait,il,disait
+table,dire,imparfait,nous,disions
+table,dire,imparfait,vous,disiez
+table,dire,imparfait,ils,disaient
+table,aller,imparfait,je,allais
+table,aller,imparfait,tu,allais
+table,aller,imparfait,il,allait
+table,aller,imparfait,nous,allions
+table,aller,imparfait,vous,alliez
+table,aller,imparfait,ils,allaient
+table,faire,imparfait,je,faisais
+table,faire,imparfait,tu,faisais
+table,faire,imparfait,il,faisait
+table,faire,imparfait,nous,faisions
+table,faire,imparfait,vous,faisiez
+table,faire,imparfait,ils,faisaient
+table,avoir,imparfait,je,avais
+table,avoir,imparfait,tu,avais
+table,avoir,imparfait,il,avait
+table,avoir,imparfait,nous,avions
+table,avoir,imparfait,vous,aviez
+table,avoir,imparfait,ils,avaient
+table,être,imparfait,je,étais
+table,être,imparfait,tu,étais
+table,être,imparfait,il,était
+table,être,imparfait,nous,étions
+table,être,imparfait,vous,étiez
+table,être,imparfait,ils,étaient
+single,être,imparfait,nous,étions
+single,boire,imparfait,vous,buviez
+single,prendre,imparfait,ils,prenaient
+table,croire,plus-que-parfait,je,avais cru
+table,croire,plus-que-parfait,tu,avais cru
+table,croire,plus-que-parfait,il,avait cru
+table,croire,plus-que-parfait,nous,avions cru
+table,croire,plus-que-parfait,vous,aviez cru
+table,croire,plus-que-parfait,ils,avaient cru
+table,suivre,plus-que-parfait,je,avais suivi
+table,suivre,plus-que-parfait,tu,avais suivi
+table,suivre,plus-que-parfait,il,avait suivi
+table,suivre,plus-que-parfait,nous,avions suivi
+table,suivre,plus-que-parfait,vous,aviez suivi
+table,suivre,plus-que-parfait,ils,avaient suivi
+table,prendre,plus-que-parfait,je,avais pris
+table,prendre,plus-que-parfait,tu,avais pris
+table,prendre,plus-que-parfait,il,avait pris
+table,prendre,plus-que-parfait,nous,avions pris
+table,prendre,plus-que-parfait,vous,aviez pris
+table,prendre,plus-que-parfait,ils,avaient pris
+table,venir,plus-que-parfait,je,étais venu
+table,venir,plus-que-parfait,tu,étais venu
+table,venir,plus-que-parfait,il,était venu
+table,venir,plus-que-parfait,nous,étions venus
+table,venir,plus-que-parfait,vous,étiez venus
+table,venir,plus-que-parfait,ils,étaient venus
+table,devoir,plus-que-parfait,je,avais dû
+table,devoir,plus-que-parfait,tu,avais dû
+table,devoir,plus-que-parfait,il,avait dû
+table,devoir,plus-que-parfait,nous,avions dû
+table,devoir,plus-que-parfait,vous,aviez dû
+table,devoir,plus-que-parfait,ils,avaient dû
+table,savoir,plus-que-parfait,je,avais su
+table,savoir,plus-que-parfait,tu,avais su
+table,savoir,plus-que-parfait,il,avait su
+table,savoir,plus-que-parfait,nous,avions su
+table,savoir,plus-que-parfait,vous,aviez su
+table,savoir,plus-que-parfait,ils,avaient su
+table,voir,plus-que-parfait,je,avais vu
+table,voir,plus-que-parfait,tu,avais vu
+table,voir,plus-que-parfait,il,avait vu
+table,voir,plus-que-parfait,nous,avions vu
+table,voir,plus-que-parfait,vous,aviez vu
+table,voir,plus-que-parfait,ils,avaient vu
+table,vouloir,plus-que-parfait,je,avais voulu
+table,vouloir,plus-que-parfait,tu,avais voulu
+table,vouloir,plus-que-parfait,il,avait voulu
+table,vouloir,plus-que-parfait,nous,avions voulu
+table,vouloir,plus-que-parfait,vous,aviez voulu
+table,vouloir,plus-que-parfait,ils,avaient voulu
+table,pouvoir,plus-que-parfait,je,avais pu
+table,pouvoir,plus-que-parfait,tu,avais pu
+table,pouvoir,plus-que-parfait,il,avait pu
+table,pouvoir,plus-que-parfait,nous,avions pu
+table,pouvoir,plus-que-parfait,vous,aviez pu
+table,pouvoir,plus-que-parfait,ils,avaient pu
+table,dire,plus-que-parfait,je,avais dit
+table,dire,plus-que-parfait,tu,avais dit
+table,dire,plus-que-parfait,il,avait dit
+table,dire,plus-que-parfait,nous,avions dit
+table,dire,plus-que-parfait,vous,aviez dit
+table,dire,plus-que-parfait,ils,avaient dit
+table,aller,plus-que-parfait,je,étais allé
+table,aller,plus-que-parfait,tu,étais allé
+table,aller,plus-que-parfait,il,était allé
+table,aller,plus-que-parfait,nous,étions allés
+table,aller,plus-que-parfait,vous,étiez allés
+table,aller,plus-que-parfait,ils,étaient allés
+table,faire,plus-que-parfait,je,avais fait
+table,faire,plus-que-parfait,tu,avais fait
+table,faire,plus-que-parfait,il,avait fait
+table,faire,plus-que-parfait,nous,avions fait
+table,faire,plus-que-parfait,vous,aviez fait
+table,faire,plus-que-parfait,ils,avaient fait
+table,avoir,plus-que-parfait,je,avais eu
+table,avoir,plus-que-parfait,tu,avais eu
+table,avoir,plus-que-parfait,il,avait eu
+table,avoir,plus-que-parfait,nous,avions eu
+table,avoir,plus-que-parfait,vous,aviez eu
+table,avoir,plus-que-parfait,ils,avaient eu
+table,être,plus-que-parfait,je,avais été
+table,être,plus-que-parfait,tu,avais été
+table,être,plus-que-parfait,il,avait été
+table,être,plus-que-parfait,nous,avions été
+table,être,plus-que-parfait,vous,aviez été
+table,être,plus-que-parfait,ils,avaient été
+single,se lever,plus-que-parfait,nous,nous étions levés
+single,finir,plus-que-parfait,ils,avaient fini
+table,croire,futur simple,je,croirai
+table,croire,futur simple,tu,croiras
+table,croire,futur simple,il,croira
+table,croire,futur simple,nous,croirons
+table,croire,futur simple,vous,croirez
+table,croire,futur simple,ils,croiront
+table,suivre,futur simple,je,suivrai
+table,suivre,futur simple,tu,suivras
+table,suivre,futur simple,il,suivra
+table,suivre,futur simple,nous,suivrons
+table,suivre,futur simple,vous,suivrez
+table,suivre,futur simple,ils,suivront
+table,prendre,futur simple,je,prendrai
+table,prendre,futur simple,tu,prendras
+table,prendre,futur simple,il,prendra
+table,prendre,futur simple,nous,prendrons
+table,prendre,futur simple,vous,prendrez
+table,prendre,futur simple,ils,prendront
+table,venir,futur simple,je,viendrai
+table,venir,futur simple,tu,viendras
+table,venir,futur simple,il,viendra
+table,venir,futur simple,nous,viendrons
+table,venir,futur simple,vous,viendrez
+table,venir,futur simple,ils,viendront
+table,devoir,futur simple,je,devrai
+table,devoir,futur simple,tu,devras
+table,devoir,futur simple,il,devra
+table,devoir,futur simple,nous,devrons
+table,devoir,futur simple,vous,devrez
+table,devoir,futur simple,ils,devront
+table,savoir,futur simple,je,saurai
+table,savoir,futur simple,tu,sauras
+table,savoir,futur simple,il,saura
+table,savoir,futur simple,nous,saurons
+table,savoir,futur simple,vous,saurez
+table,savoir,futur simple,ils,sauront
+table,voir,futur simple,je,verrai
+table,voir,futur simple,tu,verras
+table,voir,futur simple,il,verra
+table,voir,futur simple,nous,verrons
+table,voir,futur simple,vous,verrez
+table,voir,futur simple,ils,verront
+table,vouloir,futur simple,je,voudrai
+table,vouloir,futur simple,tu,voudras
+table,vouloir,futur simple,il,voudra
+table,vouloir,futur simple,nous,voudrons
+table,vouloir,futur simple,vous,voudrez
+table,vouloir,futur simple,ils,voudront
+table,pouvoir,futur simple,je,pourrai
+table,pouvoir,futur simple,tu,pourras
+table,pouvoir,futur simple,il,pourra
+table,pouvoir,futur simple,nous,pourrons
+table,pouvoir,futur simple,vous,pourrez
+table,pouvoir,futur simple,ils,pourront
+table,dire,futur simple,je,dirai
+table,dire,futur simple,tu,diras
+table,dire,futur simple,il,dira
+table,dire,futur simple,nous,dirons
+table,dire,futur simple,vous,direz
+table,dire,futur simple,ils,diront
+table,aller,futur simple,je,irai
+table,aller,futur simple,tu,iras
+table,aller,futur simple,il,ira
+table,aller,futur simple,nous,irons
+table,aller,futur simple,vous,irez
+table,aller,futur simple,ils,iront
+table,faire,futur simple,je,ferai
+table,faire,futur simple,tu,feras
+table,faire,futur simple,il,fera
+table,faire,futur simple,nous,ferons
+table,faire,futur simple,vous,ferez
+table,faire,futur simple,ils,feront
+table,avoir,futur simple,je,aurai
+table,avoir,futur simple,tu,auras
+table,avoir,futur simple,il,aura
+table,avoir,futur simple,nous,aurons
+table,avoir,futur simple,vous,aurez
+table,avoir,futur simple,ils,auront
+table,être,futur simple,je,serai
+table,être,futur simple,tu,seras
+table,être,futur simple,il,sera
+table,être,futur simple,nous,serons
+table,être,futur simple,vous,serez
+table,être,futur simple,ils,seront
+single,aller,futur simple,je,irai
+single,être,futur simple,tu,seras
+single,être,futur simple,je,serai
+single,avoir,futur simple,je,aurai
+single,faire,futur simple,je,ferai
+single,dire,futur simple,je,dirai
+single,pouvoir,futur simple,je,pourrai
+single,vouloir,futur simple,je,voudrai
+single,voir,futur simple,je,verrai
+single,savoir,futur simple,je,saurai
+single,devoir,futur simple,je,devrai
+single,venir,futur simple,je,viendrai
+single,prendre,futur simple,je,prendrai
+single,suivre,futur simple,je,suivrai
+single,falloir,futur simple,il,faudra
+single,croire,futur simple,je,croirai
+single,mettre,futur simple,je,mettrai
+single,attendre,futur simple,je,attendrai
+single,partir,futur simple,je,partirai
+single,connaître,futur simple,je,connaîtrai
+single,sortir,futur simple,je,sortirai
+single,comprendre,futur simple,je,comprendrai
+single,entendre,futur simple,je,entendrai
+single,mourir,futur simple,je,mourrai
+single,sentir,futur simple,je,sentirai
+single,tenir,futur simple,je,tiendrai
+single,revenir,futur simple,je,reviendrai
+single,rendre,futur simple,je,rendrai
+single,finir,futur simple,je,finirai
+single,devenir,futur simple,je,deviendrai
+single,vivre,futur simple,je,vivrai
+single,perdre,futur simple,je,perdrai
+single,ouvrir,futur simple,je,ouvrirai
+single,vouloir,futur simple,ils,voudront
+table,aller,passé récent,je,viens de aller
+table,aller,passé récent,tu,viens de aller
+table,aller,passé récent,il,vient de aller
+table,aller,passé récent,nous,venons de aller
+table,aller,passé récent,vous,venez de aller
+table,aller,passé récent,ils,viennent de aller
+table,faire,passé récent,je,viens de faire
+table,faire,passé récent,tu,viens de faire
+table,faire,passé récent,il,vient de faire
+table,faire,passé récent,nous,venons de faire
+table,faire,passé récent,vous,venez de faire
+table,faire,passé récent,ils,viennent de faire
+table,avoir,passé récent,je,viens de avoir
+table,avoir,passé récent,tu,viens de avoir
+table,avoir,passé récent,il,vient de avoir
+table,avoir,passé récent,nous,venons de avoir
+table,avoir,passé récent,vous,venez de avoir
+table,avoir,passé récent,ils,viennent de avoir
+table,être,passé récent,je,viens de être
+table,être,passé récent,tu,viens de être
+table,être,passé récent,il,vient de être
+table,être,passé récent,nous,venons de être
+table,être,passé récent,vous,venez de être
+table,être,passé récent,ils,viennent de être
+table,aller,futur proche,je,vais aller
+table,aller,futur proche,tu,vas aller
+table,aller,futur proche,il,va aller
+table,aller,futur proche,nous,allons aller
+table,aller,futur proche,vous,allez aller
+table,aller,futur proche,ils,vont aller
+table,faire,futur proche,je,vais faire
+table,faire,futur proche,tu,vas faire
+table,faire,futur proche,il,va faire
+table,faire,futur proche,nous,allons faire
+table,faire,futur proche,vous,allez faire
+table,faire,futur proche,ils,vont faire
+table,avoir,futur proche,je,vais avoir
+table,avoir,futur proche,tu,vas avoir
+table,avoir,futur proche,il,va avoir
+table,avoir,futur proche,nous,allons avoir
+table,avoir,futur proche,vous,allez avoir
+table,avoir,futur proche,ils,vont avoir
+table,être,futur proche,je,vais être
+table,être,futur proche,tu,vas être
+table,être,futur proche,il,va être
+table,être,futur proche,nous,allons être
+table,être,futur proche,vous,allez être
+table,être,futur proche,ils,vont être
+table,croire,futur antérieur,je,aurai cru
+table,croire,futur antérieur,tu,auras cru
+table,croire,futur antérieur,il,aura cru
+table,croire,futur antérieur,nous,aurons cru
+table,croire,futur antérieur,vous,aurez cru
+table,croire,futur antérieur,ils,auront cru
+table,suivre,futur antérieur,je,aurai suivi
+table,suivre,futur antérieur,tu,auras suivi
+table,suivre,futur antérieur,il,aura suivi
+table,suivre,futur antérieur,nous,aurons suivi
+table,suivre,futur antérieur,vous,aurez suivi
+table,suivre,futur antérieur,ils,auront suivi
+table,prendre,futur antérieur,je,aurai pris
+table,prendre,futur antérieur,tu,auras pris
+table,prendre,futur antérieur,il,aura pris
+table,prendre,futur antérieur,nous,aurons pris
+table,prendre,futur antérieur,vous,aurez pris
+table,prendre,futur antérieur,ils,auront pris
+table,venir,futur antérieur,je,serai venu
+table,venir,futur antérieur,tu,seras venu
+table,venir,futur antérieur,il,sera venu
+table,venir,futur antérieur,nous,serons venus
+table,venir,futur antérieur,vous,serez venus
+table,venir,futur antérieur,ils,seront venus
+table,devoir,futur antérieur,je,aurai dû
+table,devoir,futur antérieur,tu,auras dû
+table,devoir,futur antérieur,il,aura dû
+table,devoir,futur antérieur,nous,aurons dû
+table,devoir,futur antérieur,vous,aurez dû
+table,devoir,futur antérieur,ils,auront dû
+table,savoir,futur antérieur,je,aurai su
+table,savoir,futur antérieur,tu,auras su
+table,savoir,futur antérieur,il,aura su
+table,savoir,futur antérieur,nous,aurons su
+table,savoir,futur antérieur,vous,aurez su
+table,savoir,futur antérieur,ils,auront su
+table,voir,futur antérieur,je,aurai vu
+table,voir,futur antérieur,tu,auras vu
+table,voir,futur antérieur,il,aura vu
+table,voir,futur antérieur,nous,aurons vu
+table,voir,futur antérieur,vous,aurez vu
+table,voir,futur antérieur,ils,auront vu
+table,vouloir,futur antérieur,je,aurai voulu
+table,vouloir,futur antérieur,tu,auras voulu
+table,vouloir,futur antérieur,il,aura voulu
+table,vouloir,futur antérieur,nous,aurons voulu
+table,vouloir,futur antérieur,vous,aurez voulu
+table,vouloir,futur antérieur,ils,auront voulu
+table,pouvoir,futur antérieur,je,aurai pu
+table,pouvoir,futur antérieur,tu,auras pu
+table,pouvoir,futur antérieur,il,aura pu
+table,pouvoir,futur antérieur,nous,aurons pu
+table,pouvoir,futur antérieur,vous,aurez pu
+table,pouvoir,futur antérieur,ils,auront pu
+table,dire,futur antérieur,je,aurai dit
+table,dire,futur antérieur,tu,auras dit
+table,dire,futur antérieur,il,aura dit
+table,dire,futur antérieur,nous,aurons dit
+table,dire,futur antérieur,vous,aurez dit
+table,dire,futur antérieur,ils,auront dit
+table,aller,futur antérieur,je,serai allé
+table,aller,futur antérieur,tu,seras allé
+table,aller,futur antérieur,il,sera allé
+table,aller,futur antérieur,nous,serons allés
+table,aller,futur antérieur,vous,serez allés
+table,aller,futur antérieur,ils,seront allés
+table,faire,futur antérieur,je,aurai fait
+table,faire,futur antérieur,tu,auras fait
+table,faire,futur antérieur,il,aura fait
+table,faire,futur antérieur,nous,aurons fait
+table,faire,futur antérieur,vous,aurez fait
+table,faire,futur antérieur,ils,auront fait
+table,avoir,futur antérieur,je,aurai eu
+table,avoir,futur antérieur,tu,auras eu
+table,avoir,futur antérieur,il,aura eu
+table,avoir,futur antérieur,nous,aurons eu
+table,avoir,futur antérieur,vous,aurez eu
+table,avoir,futur antérieur,ils,auront eu
+table,être,futur antérieur,je,aurai été
+table,être,futur antérieur,tu,auras été
+table,être,futur antérieur,il,aura été
+table,être,futur antérieur,nous,aurons été
+table,être,futur antérieur,vous,aurez été
+table,être,futur antérieur,ils,auront été
+single,partir,futur antérieur,nous,serons partis
+single,prendre,futur antérieur,je,aurai pris
+table,croire,conditionnel présent,je,croirais
+table,croire,conditionnel présent,tu,croirais
+table,croire,conditionnel présent,il,croirait
+table,croire,conditionnel présent,nous,croirions
+table,croire,conditionnel présent,vous,croiriez
+table,croire,conditionnel présent,ils,croiraient
+table,suivre,conditionnel présent,je,suivrais
+table,suivre,conditionnel présent,tu,suivrais
+table,suivre,conditionnel présent,il,suivrait
+table,suivre,conditionnel présent,nous,suivrions
+table,suivre,conditionnel présent,vous,suivriez
+table,suivre,conditionnel présent,ils,suivraient
+table,prendre,conditionnel présent,je,prendrais
+table,prendre,conditionnel présent,tu,prendrais
+table,prendre,conditionnel présent,il,prendrait
+table,prendre,conditionnel présent,nous,prendrions
+table,prendre,conditionnel présent,vous,prendriez
+table,prendre,conditionnel présent,ils,prendraient
+table,venir,conditionnel présent,je,viendrais
+table,venir,conditionnel présent,tu,viendrais
+table,venir,conditionnel présent,il,viendrait
+table,venir,conditionnel présent,nous,viendrions
+table,venir,conditionnel présent,vous,viendriez
+table,venir,conditionnel présent,ils,viendraient
+table,devoir,conditionnel présent,je,devrais
+table,devoir,conditionnel présent,tu,devrais
+table,devoir,conditionnel présent,il,devrait
+table,devoir,conditionnel présent,nous,devrions
+table,devoir,conditionnel présent,vous,devriez
+table,devoir,conditionnel présent,ils,devraient
+table,savoir,conditionnel présent,je,saurais
+table,savoir,conditionnel présent,tu,saurais
+table,savoir,conditionnel présent,il,saurait
+table,savoir,conditionnel présent,nous,saurions
+table,savoir,conditionnel présent,vous,sauriez
+table,savoir,conditionnel présent,ils,sauraient
+table,voir,conditionnel présent,je,verrais
+table,voir,conditionnel présent,tu,verrais
+table,voir,conditionnel présent,il,verrait
+table,voir,conditionnel présent,nous,verrions
+table,voir,conditionnel présent,vous,verriez
+table,voir,conditionnel présent,ils,verraient
+table,vouloir,conditionnel présent,je,voudrais
+table,vouloir,conditionnel présent,tu,voudrais
+table,vouloir,conditionnel présent,il,voudrait
+table,vouloir,conditionnel présent,nous,voudrions
+table,vouloir,conditionnel présent,vous,voudriez
+table,vouloir,conditionnel présent,ils,voudraient
+table,pouvoir,conditionnel présent,je,pourrais
+table,pouvoir,conditionnel présent,tu,pourrais
+table,pouvoir,conditionnel présent,il,pourrait
+table,pouvoir,conditionnel présent,nous,pourrions
+table,pouvoir,conditionnel présent,vous,pourriez
+table,pouvoir,conditionnel présent,ils,pourraient
+table,dire,conditionnel présent,je,dirais
+table,dire,conditionnel présent,tu,dirais
+table,dire,conditionnel présent,il,dirait
+table,dire,conditionnel présent,nous,dirions
+table,dire,conditionnel présent,vous,diriez
+table,dire,conditionnel présent,ils,diraient
+table,aller,conditionnel présent,je,irais
+table,aller,conditionnel présent,tu,irais
+table,aller,conditionnel présent,il,irait
+table,aller,conditionnel présent,nous,irions
+table,aller,conditionnel présent,vous,iriez
+table,aller,conditionnel présent,ils,iraient
+table,faire,conditionnel présent,je,ferais
+table,faire,conditionnel présent,tu,ferais
+table,faire,conditionnel présent,il,ferait
+table,faire,conditionnel présent,nous,ferions
+table,faire,conditionnel présent,vous,feriez
+table,faire,conditionnel présent,ils,feraient
+table,avoir,conditionnel présent,je,aurais
+table,avoir,conditionnel présent,tu,aurais
+table,avoir,conditionnel présent,il,aurait
+table,avoir,conditionnel présent,nous,aurions
+table,avoir,conditionnel présent,vous,auriez
+table,avoir,conditionnel présent,ils,auraient
+table,être,conditionnel présent,je,serais
+table,être,conditionnel présent,tu,serais
+table,être,conditionnel présent,il,serait
+table,être,conditionnel présent,nous,serions
+table,être,conditionnel présent,vous,seriez
+table,être,conditionnel présent,ils,seraient
+single,pouvoir,conditionnel,vous,pourriez
+single,venir,conditionnel,nous,viendrions
+table,croire,conditionnel passé,je,aurais cru
+table,croire,conditionnel passé,tu,aurais cru
+table,croire,conditionnel passé,il,aurait cru
+table,croire,conditionnel passé,nous,aurions cru
+table,croire,conditionnel passé,vous,auriez cru
+table,croire,conditionnel passé,ils,auraient cru
+table,suivre,conditionnel passé,je,aurais suivi
+table,suivre,conditionnel passé,tu,aurais suivi
+table,suivre,conditionnel passé,il,aurait suivi
+table,suivre,conditionnel passé,nous,aurions suivi
+table,suivre,conditionnel passé,vous,auriez suivi
+table,suivre,conditionnel passé,ils,auraient suivi
+table,prendre,conditionnel passé,je,aurais pris
+table,prendre,conditionnel passé,tu,aurais pris
+table,prendre,conditionnel passé,il,aurait pris
+table,prendre,conditionnel passé,nous,aurions pris
+table,prendre,conditionnel passé,vous,auriez pris
+table,prendre,conditionnel passé,ils,auraient pris
+table,venir,conditionnel passé,je,serais venu
+table,venir,conditionnel passé,tu,serais venu
+table,venir,conditionnel passé,il,serait venu
+table,venir,conditionnel passé,nous,serions venus
+table,venir,conditionnel passé,vous,seriez venus
+table,venir,conditionnel passé,ils,seraient venus
+table,devoir,conditionnel passé,je,aurais dû
+table,devoir,conditionnel passé,tu,aurais dû
+table,devoir,conditionnel passé,il,aurait dû
+table,devoir,conditionnel passé,nous,aurions dû
+table,devoir,conditionnel passé,vous,auriez dû
+table,devoir,conditionnel passé,ils,auraient dû
+table,savoir,conditionnel passé,je,aurais su
+table,savoir,conditionnel passé,tu,aurais su
+table,savoir,conditionnel passé,il,aurait su
+table,savoir,conditionnel passé,nous,aurions su
+table,savoir,conditionnel passé,vous,auriez su
+table,savoir,conditionnel passé,ils,auraient su
+table,voir,conditionnel passé,je,aurais vu
+table,voir,conditionnel passé,tu,aurais vu
+table,voir,conditionnel passé,il,aurait vu
+table,voir,conditionnel passé,nous,aurions vu
+table,voir,conditionnel passé,vous,auriez vu
+table,voir,conditionnel passé,ils,auraient vu
+table,vouloir,conditionnel passé,je,aurais voulu
+table,vouloir,conditionnel passé,tu,aurais voulu
+table,vouloir,conditionnel passé,il,aurait voulu
+table,vouloir,conditionnel passé,nous,aurions voulu
+table,vouloir,conditionnel passé,vous,auriez voulu
+table,vouloir,conditionnel passé,ils,auraient voulu
+table,pouvoir,conditionnel passé,je,aurais pu
+table,pouvoir,conditionnel passé,tu,aurais pu
+table,pouvoir,conditionnel passé,il,aurait pu
+table,pouvoir,conditionnel passé,nous,aurions pu
+table,pouvoir,conditionnel passé,vous,auriez pu
+table,pouvoir,conditionnel passé,ils,auraient pu
+table,dire,conditionnel passé,je,aurais dit
+table,dire,conditionnel passé,tu,aurais dit
+table,dire,conditionnel passé,il,aurait dit
+table,dire,conditionnel passé,nous,aurions dit
+table,dire,conditionnel passé,vous,auriez dit
+table,dire,conditionnel passé,ils,auraient dit
+table,aller,conditionnel passé,je,serais allé
+table,aller,conditionnel passé,tu,serais allé
+table,aller,conditionnel passé,il,serait allé
+table,aller,conditionnel passé,nous,serions allés
+table,aller,conditionnel passé,vous,seriez allés
+table,aller,conditionnel passé,ils,seraient allés
+table,faire,conditionnel passé,je,aurais fait
+table,faire,conditionnel passé,tu,aurais fait
+table,faire,conditionnel passé,il,aurait fait
+table,faire,conditionnel passé,nous,aurions fait
+table,faire,conditionnel passé,vous,auriez fait
+table,faire,conditionnel passé,ils,auraient fait
+table,avoir,conditionnel passé,je,aurais eu
+table,avoir,conditionnel passé,tu,aurais eu
+table,avoir,conditionnel passé,il,aurait eu
+table,avoir,conditionnel passé,nous,aurions eu
+table,avoir,conditionnel passé,vous,auriez eu
+table,avoir,conditionnel passé,ils,auraient eu
+table,être,conditionnel passé,je,aurais été
+table,être,conditionnel passé,tu,aurais été
+table,être,conditionnel passé,il,aurait été
+table,être,conditionnel passé,nous,aurions été
+table,être,conditionnel passé,vous,auriez été
+table,être,conditionnel passé,ils,auraient été
+single,prendre,conditionnel passé,vous,auriez pris
+single,se lever,conditionnel passé,elle,se serait levée
+table,croire,subjonctif présent,je,croie
+table,croire,subjonctif présent,tu,croies
+table,croire,subjonctif présent,il,croie
+table,croire,subjonctif présent,nous,croyions
+table,croire,subjonctif présent,vous,croyiez
+table,croire,subjonctif présent,ils,croient
+table,suivre,subjonctif présent,je,suive
+table,suivre,subjonctif présent,tu,suives
+table,suivre,subjonctif présent,il,suive
+table,suivre,subjonctif présent,nous,suivions
+table,suivre,subjonctif présent,vous,suiviez
+table,suivre,subjonctif présent,ils,suivent
+table,prendre,subjonctif présent,je,prenne
+table,prendre,subjonctif présent,tu,prennes
+table,prendre,subjonctif présent,il,prenne
+table,prendre,subjonctif présent,nous,prenions
+table,prendre,subjonctif présent,vous,preniez
+table,prendre,subjonctif présent,ils,prennent
+table,venir,subjonctif présent,je,vienne
+table,venir,subjonctif présent,tu,viennes
+table,venir,subjonctif présent,il,vienne
+table,venir,subjonctif présent,nous,venions
+table,venir,subjonctif présent,vous,veniez
+table,venir,subjonctif présent,ils,viennent
+table,devoir,subjonctif présent,je,doive
+table,devoir,subjonctif présent,tu,doives
+table,devoir,subjonctif présent,il,doive
+table,devoir,subjonctif présent,nous,devions
+table,devoir,subjonctif présent,vous,deviez
+table,devoir,subjonctif présent,ils,doivent
+table,voir,subjonctif présent,je,voie
+table,voir,subjonctif présent,tu,voies
+table,voir,subjonctif présent,il,voie
+table,voir,subjonctif présent,nous,voyions
+table,voir,subjonctif présent,vous,voyiez
+table,voir,subjonctif présent,ils,voient
+table,dire,subjonctif présent,je,dise
+table,dire,subjonctif présent,tu,dises
+table,dire,subjonctif présent,il,dise
+table,dire,subjonctif présent,nous,disions
+table,dire,subjonctif présent,vous,disiez
+table,dire,subjonctif présent,ils,disent
+table,aller,subjonctif présent,je,aille
+table,aller,subjonctif présent,tu,ailles
+table,aller,subjonctif présent,il,aille
+table,aller,subjonctif présent,nous,allions
+table,aller,subjonctif présent,vous,alliez
+table,aller,subjonctif présent,ils,aillent
+table,savoir,subjonctif présent,je,sache
+table,savoir,subjonctif présent,tu,saches
+table,savoir,subjonctif présent,il,sache
+table,savoir,subjonctif présent,nous,sachions
+table,savoir,subjonctif présent,vous,sachiez
+table,savoir,subjonctif présent,ils,sachent
+table,vouloir,subjonctif présent,je,veuille
+table,vouloir,subjonctif présent,tu,veuilles
+table,vouloir,subjonctif présent,il,veuille
+table,vouloir,subjonctif présent,nous,voulions
+table,vouloir,subjonctif présent,vous,vouliez
+table,vouloir,subjonctif présent,ils,veuillent
+table,pouvoir,subjonctif présent,je,puisse
+table,pouvoir,subjonctif présent,tu,puisses
+table,pouvoir,subjonctif présent,il,puisse
+table,pouvoir,subjonctif présent,nous,puissions
+table,pouvoir,subjonctif présent,vous,puissiez
+table,pouvoir,subjonctif présent,ils,puissent
+table,faire,subjonctif présent,je,fasse
+table,faire,subjonctif présent,tu,fasses
+table,faire,subjonctif présent,il,fasse
+table,faire,subjonctif présent,nous,fassions
+table,faire,subjonctif présent,vous,fassiez
+table,faire,subjonctif présent,ils,fassent
+table,avoir,subjonctif présent,je,aie
+table,avoir,subjonctif présent,tu,aies
+table,avoir,subjonctif présent,il,ait
+table,avoir,subjonctif présent,nous,ayons
+table,avoir,subjonctif présent,vous,ayez
+table,avoir,subjonctif présent,ils,aient
+table,être,subjonctif présent,je,sois
+table,être,subjonctif présent,tu,sois
+table,être,subjonctif présent,il,soit
+table,être,subjonctif présent,nous,soyons
+table,être,subjonctif présent,vous,soyez
+table,être,subjonctif présent,ils,soient
+single,faire,subjonctif,je,fasse
+single,pouvoir,subjonctif,nous,puissions
+single,être,subjonctif,je,sois
+single,être,subjonctif,nous,soyons
+single,avoir,subjonctif,je,aie
+single,avoir,subjonctif,nous,ayons
+single,faire,subjonctif,nous,fassions
+single,aller,subjonctif,je,aille
+single,dire,subjonctif,je,dise
+single,pouvoir,subjonctif,je,puisse
+single,vouloir,subjonctif,je,veuille
+single,vouloir,subjonctif,nous,voulions
+single,voir,subjonctif,je,voie
+single,savoir,subjonctif,je,sache
+single,savoir,subjonctif,nous,sachions
+single,devoir,subjonctif,je,doive
+single,venir,subjonctif,je,vienne
+single,prendre,subjonctif,je,prenne
+single,suivre,subjonctif,je,suive
+single,croire,subjonctif,je,croie
+single,mettre,subjonctif,je,mette
+single,attendre,subjonctif,je,attende
+single,partir,subjonctif,je,parte
+single,connaître,subjonctif,je,connaisse
+single,sortir,subjonctif,je,sorte
+single,comprendre,subjonctif,je,comprenne
+single,entendre,subjonctif,je,entende
+single,mourir,subjonctif,je,meure
+single,sentir,subjonctif,je,sente
+single,sentir,subjonctif,nous,sentions
+single,tenir,subjonctif,je,tienne
+single,tenir,subjonctif,nous,tenions
+single,revenir,subjonctif,je,revienne
+single,rendre,subjonctif,je,rende
+single,rendre,subjonctif,nous,rendions
+single,finir,subjonctif,je,finisse
+single,devenir,subjonctif,je,devienne
+single,vivre,subjonctif,je,vive
+single,perdre,subjonctif,je,perde
+single,ouvrir,subjonctif,il,ouvre
+single,aller,subjonctif,vous,alliez
+single,savoir,subjonctif,ils,sachent
+table,croire,subjonctif passé,je,aie cru
+table,croire,subjonctif passé,tu,aies cru
+table,croire,subjonctif passé,il,ait cru
+table,croire,subjonctif passé,nous,ayons cru
+table,croire,subjonctif passé,vous,ayez cru
+table,croire,subjonctif passé,ils,aient cru
+table,suivre,subjonctif passé,je,aie suivi
+table,suivre,subjonctif passé,tu,aies suivi
+table,suivre,subjonctif passé,il,ait suivi
+table,suivre,subjonctif passé,nous,ayons suivi
+table,suivre,subjonctif passé,vous,ayez suivi
+table,suivre,subjonctif passé,ils,aient suivi
+table,prendre,subjonctif passé,je,aie pris
+table,prendre,subjonctif passé,tu,aies pris
+table,prendre,subjonctif passé,il,ait pris
+table,prendre,subjonctif passé,nous,ayons pris
+table,prendre,subjonctif passé,vous,ayez pris
+table,prendre,subjonctif passé,ils,aient pris
+table,venir,subjonctif passé,je,sois venu
+table,venir,subjonctif passé,tu,sois venu
+table,venir,subjonctif passé,il,soit venu
+table,venir,subjonctif passé,nous,soyons venus
+table,venir,subjonctif passé,vous,soyez venus
+table,venir,subjonctif passé,ils,soient venus
+table,devoir,subjonctif passé,je,aie dû
+table,devoir,subjonctif passé,tu,aies dû
+table,devoir,subjonctif passé,il,ait dû
+table,devoir,subjonctif passé,nous,ayons dû
+table,devoir,subjonctif passé,vous,ayez dû
+table,devoir,subjonctif passé,ils,aient dû
+table,savoir,subjonctif passé,je,aie su
+table,savoir,subjonctif passé,tu,aies su
+table,savoir,subjonctif passé,il,ait su
+table,savoir,subjonctif passé,nous,ayons su
+table,savoir,subjonctif passé,vous,ayez su
+table,savoir,subjonctif passé,ils,aient su
+table,voir,subjonctif passé,je,aie vu
+table,voir,subjonctif passé,tu,aies vu
+table,voir,subjonctif passé,il,ait vu
+table,voir,subjonctif passé,nous,ayons vu
+table,voir,subjonctif passé,vous,ayez vu
+table,voir,subjonctif passé,ils,aient vu
+table,vouloir,subjonctif passé,je,aie voulu
+table,vouloir,subjonctif passé,tu,aies voulu
+table,vouloir,subjonctif passé,il,ait voulu
+table,vouloir,subjonctif passé,nous,ayons voulu
+table,vouloir,subjonctif passé,vous,ayez voulu
+table,vouloir,subjonctif passé,ils,aient voulu
+table,pouvoir,subjonctif passé,je,aie pu
+table,pouvoir,subjonctif passé,tu,aies pu
+table,pouvoir,subjonctif passé,il,ait pu
+table,pouvoir,subjonctif passé,nous,ayons pu
+table,pouvoir,subjonctif passé,vous,ayez pu
+table,pouvoir,subjonctif passé,ils,aient pu
+table,dire,subjonctif passé,je,aie dit
+table,dire,subjonctif passé,tu,aies dit
+table,dire,subjonctif passé,il,ait dit
+table,dire,subjonctif passé,nous,ayons dit
+table,dire,subjonctif passé,vous,ayez dit
+table,dire,subjonctif passé,ils,aient dit
+table,aller,subjonctif passé,je,sois allé
+table,aller,subjonctif passé,tu,sois allé
+table,aller,subjonctif passé,il,soit allé
+table,aller,subjonctif passé,nous,soyons allés
+table,aller,subjonctif passé,vous,soyez allés
+table,aller,subjonctif passé,ils,soient allés
+table,faire,subjonctif passé,je,aie fait
+table,faire,subjonctif passé,tu,aies fait
+table,faire,subjonctif passé,il,ait fait
+table,faire,subjonctif passé,nous,ayons fait
+table,faire,subjonctif passé,vous,ayez fait
+table,faire,subjonctif passé,ils,aient fait
+table,avoir,subjonctif passé,je,aie eu
+table,avoir,subjonctif passé,tu,aies eu
+table,avoir,subjonctif passé,il,ait eu
+table,avoir,subjonctif passé,nous,ayons eu
+table,avoir,subjonctif passé,vous,ayez eu
+table,avoir,subjonctif passé,ils,aient eu
+table,être,subjonctif passé,je,aie été
+table,être,subjonctif passé,tu,aies été
+table,être,subjonctif passé,il,ait été
+table,être,subjonctif passé,nous,ayons été
+table,être,subjonctif passé,vous,ayez été
+table,être,subjonctif passé,ils,aient été
+single,finir,subjonctif passé,nous,ayons fini
+single,partir,subjonctif passé,elles,soient parties
+table,croire,impératif,tu,crois
+table,croire,impératif,nous,croyons
+table,croire,impératif,vous,croyez
+table,suivre,impératif,tu,suis
+table,suivre,impératif,nous,suivons
+table,suivre,impératif,vous,suivez
+table,prendre,impératif,tu,prends
+table,prendre,impératif,nous,prenons
+table,prendre,impératif,vous,prenez
+table,venir,impératif,tu,viens
+table,venir,impératif,nous,venons
+table,venir,impératif,vous,venez
+table,savoir,impératif,tu,sache
+table,savoir,impératif,nous,sachons
+table,savoir,impératif,vous,sachez
+table,voir,impératif,tu,vois
+table,voir,impératif,nous,voyons
+table,voir,impératif,vous,voyez
+table,dire,impératif,tu,dis
+table,dire,impératif,nous,disons
+table,dire,impératif,vous,dites
+table,aller,impératif,tu,va
+table,aller,impératif,nous,allons
+table,aller,impératif,vous,allez
+table,faire,impératif,tu,fais
+table,faire,impératif,nous,faisons
+table,faire,impératif,vous,faites
+table,avoir,impératif,tu,aie
+table,avoir,impératif,nous,ayons
+table,avoir,impératif,vous,ayez
+table,être,impératif,tu,sois
+table,être,impératif,nous,soyons
+table,être,impératif,vous,soyez
+single,savoir,impératif,vous,sachez
+single,devenir,passé composé,elle,est devenue
+single,naître,passé composé,je,suis né
+single,être invité,futur simple,nous,serons invités
+single,s'en aller,présent,ils,s'en vont
+single,venir,plus-que-parfait,nous,étions venus
+single,pouvoir,conditionnel présent,vous,pourriez
+single,savoir,subjonctif,tu,saches
+single,pouvoir,conditionnel présent,je,pourrais
+single,se marier,passé composé,ils,se sont mariés
+single,pouvoir,subjonctif,vous,puissiez
+single,devoir,conditionnel présent,je,devrais
+single,ralentir,présent,nous,ralentissons
+single,ralentir,passé composé,elle,a ralenti
+single,prendre,futur simple,nous,prendrons
+single,avoir,subjonctif présent,tu,aies
