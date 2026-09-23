@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" role="img" aria-label="Neno">
+  <g transform="translate(20 22) scale(0.305)">
+  <rect width="512" height="512" rx="115" fill="#e8552f"/>
+  <g stroke="#2e211c" stroke-width="20" stroke-linejoin="round">
+    <rect x="108" y="140" width="186" height="248" rx="34" fill="#ce2a63" transform="rotate(-9 201 264)"/>
+    <rect x="188" y="118" width="212" height="272" rx="36" fill="#f7f1e8" transform="rotate(4 294 254)"/>
+    <path d="M294 196c-49 0-89 31-89 69 0 23 14 43 36 56l-11 33 41-24c7 1 15 2 23 2 49 0 89-30 89-67s-40-69-89-69z" fill="#f5a623"/>
+  </g>
+  <defs>
+    <clipPath id="flagClipA"><rect x="250" y="234" width="100" height="64" rx="11"/></clipPath>
+  </defs>
+  <g clip-path="url(#flagClipA)">
+    <rect x="250" y="234" width="34" height="64" fill="#1b3a8f"/>
+    <rect x="284" y="234" width="33" height="64" fill="#fffdf7"/>
+    <rect x="317" y="234" width="33" height="64" fill="#c8102e"/>
+  </g>
+  <rect x="250" y="234" width="100" height="64" rx="11" fill="none" stroke="#2e211c" stroke-width="9"/>
+  <g stroke="#ffc247" stroke-width="17" stroke-linecap="round">
+    <path d="M400 118v-34"/>
+    <path d="M428 140l24-24"/>
+    <path d="M440 180h34"/>
+  </g>
+
+  </g>
+  <g transform="translate(215 32)">
+  <g font-family="ui-rounded, 'SF Pro Rounded', Nunito, system-ui, sans-serif" font-size="90" font-weight="800"
+     text-anchor="middle" paint-order="stroke" stroke="#2e211c" stroke-width="15" stroke-linejoin="round" fill="#e8552f">
+    <text x="36" y="86" transform="rotate(-8 36 86)">n</text>
+    <text x="100" y="78" transform="rotate(-2 100 78)">e</text>
+    <text x="164" y="80" transform="rotate(4 164 80)">n</text>
+  </g>
+  <g transform="translate(48 6) scale(0.86)">
+    <path d="M232 20c-26 0-47 15-47 34 0 12 8 22 20 28l-14 20 30-13c3 1 7 1 11 1 26 0 47-15 47-36s-21-34-47-34z"
+          fill="#f5a623" stroke="#2e211c" stroke-width="8" stroke-linejoin="round"/>
+    <g fill="#2e211c">
+      <circle cx="212" cy="55" r="7"/><circle cx="232" cy="55" r="7"/><circle cx="252" cy="55" r="7"/>
+    </g>
+  </g>
+  <g stroke="#f5a623" stroke-width="7" stroke-linecap="round">
+    <path d="M288 16 L282 2"/><path d="M304 24 L310 9"/><path d="M312 42 L320 36"/>
+  </g>
+
+  </g>
+</svg>
