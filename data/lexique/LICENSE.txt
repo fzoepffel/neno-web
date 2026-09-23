@@ -1,0 +1,14 @@
+The data in this directory is derived from Lexique 3.83 by Boris New and Christophe
+Pallier (http://www.lexique.org) and is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International licence.
+
+Deed:       https://creativecommons.org/licenses/by-sa/4.0/
+Full text:  https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+You are free to share and adapt this data, for any purpose, including commercially, as
+long as you give appropriate credit, indicate changes, and distribute anything you build
+from it under the same licence. You may not apply technological measures that legally
+restrict others from doing what the licence permits.
+
+The licensors give no warranties. See README.md in this directory for the attribution and
+for the changes made to the original.

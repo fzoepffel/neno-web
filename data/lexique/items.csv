@@ -1,0 +1,361 @@
+set,topic,item,value
+dr-genus-isme-1,genus-endung,organisme,le
+dr-genus-isme-1,genus-endung,mécanisme,le
+dr-genus-isme-1,genus-endung,communisme,le
+dr-genus-isme-1,genus-endung,socialisme,le
+dr-genus-isme-1,genus-endung,fascisme,le
+dr-genus-isme-1,genus-endung,cynisme,le
+dr-genus-eau-1,genus-endung,bureau,le
+dr-genus-eau-1,genus-endung,bateau,le
+dr-genus-eau-1,genus-endung,oiseau,le
+dr-genus-eau-1,genus-endung,cadeau,le
+dr-genus-eau-1,genus-endung,morceau,le
+dr-genus-eau-1,genus-endung,chapeau,le
+dr-genus-age-1,genus-endung,visage,le
+dr-genus-age-1,genus-endung,mariage,le
+dr-genus-age-1,genus-endung,village,le
+dr-genus-age-1,genus-endung,passage,le
+dr-genus-age-1,genus-endung,message,le
+dr-genus-age-1,genus-endung,courage,le
+dr-genus-ment-1,genus-endung,sentiment,le
+dr-genus-ment-1,genus-endung,mouvement,le
+dr-genus-ment-1,genus-endung,gouvernement,le
+dr-genus-ment-1,genus-endung,appartement,le
+dr-genus-ment-1,genus-endung,vêtement,le
+dr-genus-ment-1,genus-endung,événement,le
+dr-genus-ance-1,genus-endung,confiance,la
+dr-genus-ance-1,genus-endung,vacance,la
+dr-genus-ance-1,genus-endung,enfance,la
+dr-genus-ance-1,genus-endung,importance,la
+dr-genus-ance-1,genus-endung,connaissance,la
+dr-genus-ance-1,genus-endung,naissance,la
+dr-genus-ette-1,genus-endung,cigarette,la
+dr-genus-ette-1,genus-endung,lunette,la
+dr-genus-ette-1,genus-endung,toilette,la
+dr-genus-ette-1,genus-endung,assiette,la
+dr-genus-ette-1,genus-endung,serviette,la
+dr-genus-ette-1,genus-endung,casquette,la
+dr-genus-te-1,genus-endung,vérité,la
+dr-genus-te-1,genus-endung,liberté,la
+dr-genus-te-1,genus-endung,beauté,la
+dr-genus-te-1,genus-endung,sécurité,la
+dr-genus-te-1,genus-endung,santé,la
+dr-genus-te-1,genus-endung,société,la
+dr-genus-tion-1,genus-endung,question,la
+dr-genus-tion-1,genus-endung,attention,la
+dr-genus-tion-1,genus-endung,situation,la
+dr-genus-tion-1,genus-endung,conversation,la
+dr-genus-tion-1,genus-endung,direction,la
+dr-genus-tion-1,genus-endung,condition,la
+dr-plural-eau-1,plural,l'eau,eaux
+dr-plural-eau-1,plural,le bureau,bureaux
+dr-plural-eau-1,plural,la peau,peaux
+dr-plural-eau-1,plural,le bateau,bateaux
+dr-plural-eau-1,plural,l'oiseau,oiseaux
+dr-plural-eau-1,plural,le cadeau,cadeaux
+dr-plural-al-1,plural,le journal,journaux
+dr-plural-al-1,plural,le cheval,chevaux
+dr-plural-al-1,plural,l'hôpital,hôpitaux
+dr-plural-al-1,plural,le signal,signaux
+dr-plural-al-1,plural,le métal,métaux
+dr-plural-al-1,plural,le tribunal,tribunaux
+dr-feminin-personen-3,personen-feminin,un visiteur,visiteuse
+dr-feminin-personen-3,personen-feminin,un cuisinier,cuisinière
+dr-feminin-personen-3,personen-feminin,un chanteur,chanteuse
+dr-feminin-personen-3,personen-feminin,un serveur,serveuse
+dr-feminin-personen-3,personen-feminin,un espion,espionne
+dr-feminin-personen-3,personen-feminin,un pêcheur,pêcheuse
+dr-feminin-personen-2,personen-feminin,un chasseur,chasseuse
+dr-feminin-personen-2,personen-feminin,un lion,lionne
+dr-feminin-personen-2,personen-feminin,un portier,portière
+dr-feminin-personen-2,personen-feminin,un champion,championne
+dr-feminin-personen-2,personen-feminin,un baron,baronne
+dr-feminin-personen-2,personen-feminin,un danseur,danseuse
+dr-feminin-personen-1,personen-feminin,un chien,chienne
+dr-feminin-personen-1,personen-feminin,un patron,patronne
+dr-feminin-personen-1,personen-feminin,un acteur,actrice
+dr-feminin-personen-1,personen-feminin,un chauffeur,chauffeuse
+dr-feminin-personen-1,personen-feminin,un inspecteur,inspectrice
+dr-feminin-personen-1,personen-feminin,un rayon,rayonne
+dr-feminin-adj-4,adj-feminin,naturel,naturelle
+dr-feminin-adj-4,adj-feminin,personnel,personnelle
+dr-feminin-adj-4,adj-feminin,public,publique
+dr-feminin-adj-4,adj-feminin,étranger,étrangère
+dr-feminin-adj-4,adj-feminin,moyen,moyenne
+dr-feminin-adj-4,adj-feminin,bref,brève
+dr-feminin-adj-3,adj-feminin,léger,légère
+dr-feminin-adj-3,adj-feminin,sec,sèche
+dr-feminin-adj-3,adj-feminin,neuf,neuve
+dr-feminin-adj-3,adj-feminin,secret,secrète
+dr-feminin-adj-3,adj-feminin,fier,fière
+dr-feminin-adj-3,adj-feminin,vif,vive
+dr-feminin-adj-2,adj-feminin,fou,folle
+dr-feminin-adj-2,adj-feminin,cher,chère
+dr-feminin-adj-2,adj-feminin,pareil,pareille
+dr-feminin-adj-2,adj-feminin,gentil,gentille
+dr-feminin-adj-2,adj-feminin,ancien,ancienne
+dr-feminin-adj-2,adj-feminin,entier,entière
+dr-feminin-adj-1,adj-feminin,bon,bonne
+dr-feminin-adj-1,adj-feminin,beau,belle
+dr-feminin-adj-1,adj-feminin,premier,première
+dr-feminin-adj-1,adj-feminin,dernier,dernière
+dr-feminin-adj-1,adj-feminin,long,longue
+dr-feminin-adj-1,adj-feminin,blanc,blanche
+dr-adverb-ment-3,adverb-ment,naturel,naturellement
+dr-adverb-ment-3,adverb-ment,heureux,heureusement
+dr-adverb-ment-3,adverb-ment,apparent,apparemment
+dr-adverb-ment-3,adverb-ment,léger,légèrement
+dr-adverb-ment-3,adverb-ment,direct,directement
+dr-adverb-ment-3,adverb-ment,franc,franchement
+dr-adverb-ment-2,adverb-ment,parfait,parfaitement
+dr-adverb-ment-2,adverb-ment,évident,évidemment
+dr-adverb-ment-2,adverb-ment,certain,certainement
+dr-adverb-ment-2,adverb-ment,final,finalement
+dr-adverb-ment-2,adverb-ment,égal,également
+dr-adverb-ment-2,adverb-ment,immédiat,immédiatement
+dr-adverb-ment-1,adverb-ment,seul,seulement
+dr-adverb-ment-1,adverb-ment,exact,exactement
+dr-adverb-ment-1,adverb-ment,doux,doucement
+dr-adverb-ment-1,adverb-ment,sûr,sûrement
+dr-adverb-ment-1,adverb-ment,complet,complètement
+dr-adverb-ment-1,adverb-ment,lent,lentement
+dr-zwei-pronomen-1,objektpronomen,Ce livre est pour moi : il ___ donne demain.,me le
+dr-zwei-pronomen-1,objektpronomen,"Paul voulait savoir mon âge, alors je ___ ai dit.",le lui
+dr-zwei-pronomen-1,objektpronomen,Nos amis attendent la lettre : nous ___ envoyons aujourd'hui.,la leur
+dr-zwei-pronomen-1,objektpronomen,Tu as besoin des clés ? Elle ___ prête ce soir.,te les
+dr-zwei-pronomen-1,objektpronomen,"Tu as encore mon stylo ? Rends-___, s'il te plaît.",le-moi
+dr-zwei-pronomen-1,objektpronomen,"De son projet, il ___ parle souvent, à Léa et à moi.",nous en
+dr-le-lui-2,objektpronomen,"Ton frère porte les cartons tout seul, aide-___ !",le
+dr-le-lui-2,objektpronomen,"Claire m'a écrit hier, je ___ réponds ce soir.",lui
+dr-le-lui-2,objektpronomen,"Ces photos sont magnifiques, je ___ regarde souvent.",les
+dr-le-lui-2,objektpronomen,C'est l'anniversaire des jumeaux : on va ___ offrir un gâteau.,leur
+dr-le-lui-2,objektpronomen,Tu vois cette dame ? Je ne ___ connais pas très bien.,la
+dr-le-lui-2,objektpronomen,"Mon père ignore la nouvelle, je vais ___ dire la vérité.",lui
+dr-le-lui-1,objektpronomen,Paul arrive : je ___ vois devant la gare.,le
+dr-le-lui-1,objektpronomen,"Ma sœur s'inquiète, je ___ téléphone ce soir.",lui
+dr-le-lui-1,objektpronomen,Marie a un bon conseil : écoute-___ bien !,la
+dr-le-lui-1,objektpronomen,"Mes parents attendent dans le salon, je vais ___ parler.",leur
+dr-le-lui-1,objektpronomen,"Mes amis sont en retard, je ___ attends au café.",les
+dr-le-lui-1,objektpronomen,Le serveur arrive : je vais ___ demander l'addition.,lui
+dr-y-en-2,y-en,Des pommes ? J'___ ai deux dans mon sac.,en
+dr-y-en-2,y-en,La musique ? Elle s'___ intéresse beaucoup.,y
+dr-y-en-2,y-en,Cette soirée ? Je m'___ souviens très bien.,en
+dr-y-en-2,y-en,La réunion ? J'___ participe demain.,y
+dr-y-en-2,y-en,Partir ? J'___ ai envie depuis longtemps.,en
+dr-y-en-2,y-en,Cette histoire ? Je n'___ crois pas du tout.,y
+dr-y-en-1,y-en,Mon travail ? J'___ pense tout le temps.,y
+dr-y-en-1,y-en,Ses vacances ? Il ___ parle sans arrêt.,en
+dr-y-en-1,y-en,Paris ? J'___ vais demain matin.,y
+dr-y-en-1,y-en,Du repos ? J'___ ai vraiment besoin.,en
+dr-y-en-1,y-en,Cette lettre ? Je vais ___ répondre ce soir.,y
+dr-y-en-1,y-en,La gare ? J'___ reviens tout de suite.,en
+dr-betont-1,betont,Je t'invite : tu viens au cinéma avec ___ ?,moi
+dr-betont-1,betont,"Paul est malade, alors on se retrouve chez ___.",lui
+dr-betont-1,betont,"Les garçons sont déjà partis, on commence sans ___.",eux
+dr-betont-1,betont,"Moi, j'aime le café ; ___, tu préfères le thé.",toi
+dr-betont-1,betont,"Sophie a son anniversaire demain, ce cadeau est pour ___.",elle
+dr-betont-1,betont,"___, nous préférons rester à la maison ce week-end.",nous
+dr-relatif-2,relativ,Voici l'outil ___ j'ai besoin pour réparer le vélo.,dont
+dr-relatif-2,relativ,Je me souviens du jour ___ nous avons déménagé.,où
+dr-relatif-2,relativ,Les voisins ___ habitent en face sont très gentils.,qui
+dr-relatif-2,relativ,Le plat ___ tu as préparé était délicieux.,que
+dr-relatif-2,relativ,C'est un travail ___ il est très fier.,dont
+dr-relatif-2,relativ,Le restaurant ___ nous mangeons souvent a fermé.,où
+dr-relatif-1,relativ,La femme ___ parle au téléphone est ma voisine.,qui
+dr-relatif-1,relativ,Le livre ___ je lis en ce moment est passionnant.,que
+dr-relatif-1,relativ,C'est le film ___ tout le monde parle.,dont
+dr-relatif-1,relativ,La ville ___ je suis née est très petite.,où
+dr-relatif-1,relativ,Le train ___ part à huit heures est complet.,qui
+dr-relatif-1,relativ,Le film ___ nous avons vu hier était trop long.,que
+dr-mon-ma-2,possessiv-demonstrativ,Je trouve que ___ idée est meilleure.,mon
+dr-mon-ma-2,possessiv-demonstrativ,Je range ___ chambre avant de sortir.,ma
+dr-mon-ma-2,possessiv-demonstrativ,Je vais te raconter ___ histoire.,mon
+dr-mon-ma-2,possessiv-demonstrativ,Tu n'as pas répondu à ___ question.,ma
+dr-mon-ma-2,possessiv-demonstrativ,J'ai perdu ___ clés ce matin.,mes
+dr-mon-ma-2,possessiv-demonstrativ,"Je reconnais ___ erreur, désolé.",mon
+dr-mon-ma-1,possessiv-demonstrativ,Je sors ce soir avec ___ amie Julie.,mon
+dr-mon-ma-1,possessiv-demonstrativ,Je ressemble beaucoup à ___ sœur.,ma
+dr-mon-ma-1,possessiv-demonstrativ,Je vais à ___ école à pied.,mon
+dr-mon-ma-1,possessiv-demonstrativ,Je lave ___ voiture tous les samedis.,ma
+dr-mon-ma-1,possessiv-demonstrativ,Je te donne ___ adresse par message.,mon
+dr-mon-ma-1,possessiv-demonstrativ,Je rends visite à ___ parents dimanche.,mes
+dr-participes-3,passe-compose,ouvrir,ouvert
+dr-participes-3,passe-compose,offrir,offert
+dr-participes-3,passe-compose,souffrir,souffert
+dr-participes-3,passe-compose,courir,couru
+dr-participes-3,passe-compose,tenir,tenu
+dr-participes-3,passe-compose,recevoir,reçu
+dr-participes-2,passe-compose,écrire,écrit
+dr-participes-2,passe-compose,lire,lu
+dr-participes-2,passe-compose,boire,bu
+dr-participes-2,passe-compose,devoir,dû
+dr-participes-2,passe-compose,croire,cru
+dr-participes-2,passe-compose,connaître,connu
+dr-participes-1,passe-compose,prendre,pris
+dr-participes-1,passe-compose,mettre,mis
+dr-participes-1,passe-compose,naître,né
+dr-participes-1,passe-compose,mourir,mort
+dr-participes-1,passe-compose,vivre,vécu
+dr-participes-1,passe-compose,suivre,suivi
+tab-gerondif-2,gerondif,vouloir,en voulant
+tab-gerondif-2,gerondif,voir,en voyant
+tab-gerondif-2,gerondif,savoir,en sachant
+tab-gerondif-2,gerondif,devoir,en devant
+tab-gerondif-2,gerondif,venir,en venant
+tab-gerondif-2,gerondif,prendre,en prenant
+tab-gerondif-1,gerondif,être,en étant
+tab-gerondif-1,gerondif,avoir,en ayant
+tab-gerondif-1,gerondif,faire,en faisant
+tab-gerondif-1,gerondif,aller,en allant
+tab-gerondif-1,gerondif,dire,en disant
+tab-gerondif-1,gerondif,pouvoir,en pouvant
+tab-passe-simple-2,passe-simple,il voulut,vouloir
+tab-passe-simple-2,passe-simple,il vit,voir
+tab-passe-simple-2,passe-simple,il sut,savoir
+tab-passe-simple-2,passe-simple,il dut,devoir
+tab-passe-simple-2,passe-simple,il vint,venir
+tab-passe-simple-2,passe-simple,il prit,prendre
+tab-passe-simple-1,passe-simple,il fut,être
+tab-passe-simple-1,passe-simple,il eut,avoir
+tab-passe-simple-1,passe-simple,il fit,faire
+tab-passe-simple-1,passe-simple,il alla,aller
+tab-passe-simple-1,passe-simple,il dit,dire
+tab-passe-simple-1,passe-simple,il put,pouvoir
+dr-pc-imparfait-2,pc-imparfait,"À cette époque, il ___ (avoir) douze ans.",avait
+dr-pc-imparfait-2,pc-imparfait,Le train ___ (arriver) avec vingt minutes de retard.,est arrivé
+dr-pc-imparfait-2,pc-imparfait,"Chaque été, nous ___ (aller) chez ma grand-mère.",allions
+dr-pc-imparfait-2,pc-imparfait,Il ___ (répondre) tout de suite à ma question.,a répondu
+dr-pc-imparfait-2,pc-imparfait,Il ___ (pleuvoir) doucement pendant que je lisais.,pleuvait
+dr-pc-imparfait-2,pc-imparfait,Les travaux ___ (commencer) lundi dernier.,ont commencé
+dr-pc-imparfait-1,pc-imparfait,"Hier matin, il ___ (faire) très froid.",faisait
+dr-pc-imparfait-1,pc-imparfait,"Soudain, j'___ (voir) un renard dans le jardin.",ai vu
+dr-pc-imparfait-1,pc-imparfait,La salle ___ (être) pleine pendant tout le concert.,était
+dr-pc-imparfait-1,pc-imparfait,"À minuit, le téléphone ___ (sonner) une fois.",a sonné
+dr-pc-imparfait-1,pc-imparfait,Je ___ (dormir) quand tu as frappé à la porte.,dormais
+dr-pc-imparfait-1,pc-imparfait,"Ce jour-là, elle ___ (décider) de tout changer.",a décidé
+dr-si-1,si-saetze,"Si j'ai le temps, j'___ au marché demain.",irai
+dr-si-1,si-saetze,"Si j'avais le temps, j'___ au cinéma avec toi.",irais
+dr-si-1,si-saetze,"Si j'avais eu le temps, je ___ à la réunion.",serais allé
+dr-si-1,si-saetze,"Si tu l'invites, il ___ avec plaisir.",viendra
+dr-si-1,si-saetze,"Si tu l'invitais, il ___ sûrement.",viendrait
+dr-si-1,si-saetze,"Si tu l'avais invité, il ___ tout de suite.",serait venu
+dr-subjonctif-ausloeser-1,subjonctif-ausloeser,Il faut que tout ___ prêt avant midi.,soit
+dr-subjonctif-ausloeser-1,subjonctif-ausloeser,Je pense que ce film ___ trop long.,est
+dr-subjonctif-ausloeser-1,subjonctif-ausloeser,"Bien qu’elle ___ de loin, elle arrive toujours à l’heure.",vienne
+dr-subjonctif-ausloeser-1,subjonctif-ausloeser,J’espère qu’il ___ avec nous ce soir.,vient
+dr-subjonctif-ausloeser-1,subjonctif-ausloeser,Je doute qu’il ___ finir avant ce soir.,puisse
+dr-subjonctif-ausloeser-1,subjonctif-ausloeser,Il est certain qu’elle ___ nous aider demain.,peut
+dr-zeitangaben-1,zeitangaben,J'habite ici ___ trois ans.,depuis
+dr-zeitangaben-1,zeitangaben,Il est arrivé à la gare ___ deux heures.,il y a
+dr-zeitangaben-1,zeitangaben,J'ai travaillé là-bas ___ dix ans.,pendant
+dr-zeitangaben-1,zeitangaben,"Je pars à Paris ___ une semaine, c'est déjà réservé.",pour
+dr-zeitangaben-1,zeitangaben,Elle attend le médecin ___ ce matin.,depuis
+dr-zeitangaben-1,zeitangaben,On s'est rencontrés ___ longtemps.,il y a
+dr-verb-praep-3,verb-praep,Profitons ___ ce beau temps !,de
+dr-verb-praep-3,verb-praep,Je participe ___ la réunion de demain.,à
+dr-verb-praep-3,verb-praep,Nous regardons ___ un film ce soir.,-
+dr-verb-praep-3,verb-praep,Tout dépend ___ la météo.,de
+dr-verb-praep-3,verb-praep,Elle s'intéresse ___ la photographie.,à
+dr-verb-praep-3,verb-praep,J'ai besoin ___ ton aide.,de
+dr-verb-praep-2,verb-praep,Le chien obéit toujours ___ son maître.,à
+dr-verb-praep-2,verb-praep,Nous avons décidé ___ partir plus tôt.,de
+dr-verb-praep-2,verb-praep,Il commence ___ pleuvoir.,à
+dr-verb-praep-2,verb-praep,Elle écoute ___ son frère sans rien dire.,-
+dr-verb-praep-2,verb-praep,J'essaie ___ finir mon travail avant midi.,de
+dr-verb-praep-2,verb-praep,Il a réussi ___ ouvrir la porte.,à
+dr-verb-praep-1,verb-praep,Je pense souvent ___ ma sœur.,à
+dr-verb-praep-1,verb-praep,Il rêve ___ un voyage au Japon.,de
+dr-verb-praep-1,verb-praep,"Ce soir, je téléphone ___ mon père.",à
+dr-verb-praep-1,verb-praep,J'attends ___ mon frère devant le cinéma.,-
+dr-verb-praep-1,verb-praep,Je cherche ___ mes clés depuis une heure.,-
+dr-verb-praep-1,verb-praep,Tu te souviens ___ ce film ?,de
+dr-a-qn-de-1,verb-a-qn-de,J'ai demandé ___ mon frère de m'aider.,à
+dr-a-qn-de-1,verb-a-qn-de,Il a demandé à sa sœur ___ l'attendre.,de
+dr-a-qn-de-1,verb-a-qn-de,Dis ___ tes parents de venir plus tôt.,à
+dr-a-qn-de-1,verb-a-qn-de,Le médecin lui a conseillé ___ se reposer.,de
+dr-a-qn-de-1,verb-a-qn-de,Mes parents permettent ___ ma sœur de sortir le soir.,à
+dr-a-qn-de-1,verb-a-qn-de,J'ai proposé à Marc ___ venir avec nous.,de
+dr-adj-praep-2,adj-praep,Tu es sûr ___ la réponse ?,de
+dr-adj-praep-2,adj-praep,Nous sommes obligés ___ rentrer avant minuit.,de
+dr-adj-praep-2,adj-praep,"Le taxi attend, je suis prêt ___ partir.",à
+dr-adj-praep-2,adj-praep,Je suis heureux ___ vous voir ici.,de
+dr-adj-praep-2,adj-praep,Cette carte sera utile ___ tous les voyageurs.,à
+dr-adj-praep-2,adj-praep,Le train est plein ___ touristes.,de
+dr-adj-praep-1,adj-praep,Je suis très content ___ ton cadeau.,de
+dr-adj-praep-1,adj-praep,Elle est prête ___ commencer le travail.,à
+dr-adj-praep-1,adj-praep,Il est capable ___ courir dix kilomètres.,de
+dr-adj-praep-1,adj-praep,Ce texte est difficile ___ comprendre.,à
+dr-adj-praep-1,adj-praep,Mes parents sont fiers ___ ma sœur.,de
+dr-adj-praep-1,adj-praep,Je suis habitué ___ ce bruit.,à
+dr-nomen-praep-1,nomen-praep,Je n'ai aucune raison ___ mentir.,de
+dr-nomen-praep-1,nomen-praep,J'ai vraiment envie ___ partir ce week-end.,de
+dr-nomen-praep-1,nomen-praep,Il n'a pas donné de réponse ___ ma question.,à
+dr-nomen-praep-1,nomen-praep,Tu as le droit ___ rester ici.,de
+dr-nomen-praep-1,nomen-praep,On cherche une solution ___ ce problème.,à
+dr-nomen-praep-1,nomen-praep,Elle a une peur terrible ___ l'avion.,de
+dr-orte-2,orte,les États-Unis,aux États-Unis
+dr-orte-2,orte,les Pays-Bas,aux Pays-Bas
+dr-orte-2,orte,l’Iran,en Iran
+dr-orte-2,orte,Paris,à Paris
+dr-orte-2,orte,Berlin,à Berlin
+dr-orte-2,orte,Lyon,à Lyon
+dr-orte-1,orte,la France,en France
+dr-orte-1,orte,l’Allemagne,en Allemagne
+dr-orte-1,orte,l’Italie,en Italie
+dr-orte-1,orte,le Portugal,au Portugal
+dr-orte-1,orte,le Canada,au Canada
+dr-orte-1,orte,le Japon,au Japon
+dr-verkehrsmittel-1,verkehrsmittel,"Le matin, je vais au travail ___ voiture.",en
+dr-verkehrsmittel-1,verkehrsmittel,"La boulangerie est tout près, j'y vais ___ pied.",à
+dr-verkehrsmittel-1,verkehrsmittel,Ma sœur va au lycée ___ vélo.,à
+dr-verkehrsmittel-1,verkehrsmittel,Nous partons en Espagne ___ avion.,en
+dr-verkehrsmittel-1,verkehrsmittel,"Dimanche soir, je rentre à Paris ___ train.",en
+dr-verkehrsmittel-1,verkehrsmittel,Elle se promène dans la forêt ___ cheval.,à
+dr-zeit-praep-1,zeit-praep,J'ai fait tout le travail ___ deux heures.,en
+dr-zeit-praep-1,zeit-praep,"On part ___ dix minutes, prépare-toi.",dans
+dr-zeit-praep-1,zeit-praep,"Cette nuit, j'ai dormi ___ huit heures.",pendant
+dr-zeit-praep-1,zeit-praep,Le train part ___ huit heures précises.,à
+dr-zeit-praep-1,zeit-praep,"Il arrive ___ midi, peut-être un peu plus tard.",vers
+dr-zeit-praep-1,zeit-praep,J'attends le技 résultat ___ ce matin.,depuis
+dr-lage-1,lage,Le livre est posé ___ la table du salon.,sur
+dr-lage-1,lage,Le chat s'est caché ___ la chaise.,sous
+dr-lage-1,lage,La voiture est garée juste ___ la porte d'entrée et bloque le passage.,devant
+dr-lage-1,lage,"Le jardin est ___ la maison, on ne le voit pas de la rue.",derrière
+dr-lage-1,lage,La lampe est ___ le canapé et la fenêtre.,entre
+dr-lage-1,lage,Le vélo est appuyé ___ le mur du couloir.,contre
+dr-verneinung-1,verneinung,"Je ne travaille ___ aujourd'hui, mais je travaille demain.",pas
+dr-verneinung-1,verneinung,Mon frère ne fume ___ depuis un an.,plus
+dr-verneinung-1,verneinung,Elle n'est ___ allée au cinéma de sa vie.,jamais
+dr-verneinung-1,verneinung,Il a un fort accent : je n'ai ___ compris de ce qu'il a dit.,rien
+dr-verneinung-1,verneinung,"J'ai sonné longtemps, mais ___ n'a ouvert la porte.",personne
+dr-verneinung-1,verneinung,Je ne peux pas payer le taxi : je n'ai ___ dix euros.,que
+dr-konnektoren-1,konnektoren,"Il pleuvait beaucoup, ___ nous sommes restés à la maison.",donc
+dr-konnektoren-1,konnektoren,"Il a beaucoup révisé, et ___ il a raté l'examen.",pourtant
+dr-konnektoren-1,konnektoren,"Elle est rentrée tôt, ___ elle était très fatiguée.",car
+dr-konnektoren-1,konnektoren,Il dort sur le canapé ___ elle travaille encore.,alors que
+dr-konnektoren-1,konnektoren,"___ il pleut demain, nous irons à la mer.",même si
+dr-konnektoren-1,konnektoren,"___ tu es là, aide-moi à porter ces sacs.",puisque
+dr-nombres-2,zahlen,100,cent
+dr-nombres-2,zahlen,200,deux cents
+dr-nombres-2,zahlen,201,deux cent un
+dr-nombres-2,zahlen,1000,mille
+dr-nombres-2,zahlen,2000,deux mille
+dr-nombres-2,zahlen,1000000,un million
+dr-nombres-1,zahlen,21,vingt et un
+dr-nombres-1,zahlen,31,trente et un
+dr-nombres-1,zahlen,71,soixante et onze
+dr-nombres-1,zahlen,80,quatre-vingts
+dr-nombres-1,zahlen,81,quatre-vingt-un
+dr-nombres-1,zahlen,91,quatre-vingt-onze
+dr-homophone-2,homophone,___ frère travaille dans un hôpital.,son
+dr-homophone-2,homophone,Mes cousins ___ partis sans nous.,sont
+dr-homophone-2,homophone,J'ai acheté du pain ___ du fromage.,et
+dr-homophone-2,homophone,Il ___ trop tard pour sortir ce soir.,est
+dr-homophone-2,homophone,Tu connais ___ enfants qui jouent devant chez nous ?,ces
+dr-homophone-2,homophone,Marie habite encore chez ___ parents.,ses
+dr-homophone-1,homophone,Mon voisin ___ une voiture rouge.,a
+dr-homophone-1,homophone,"Demain, il va ___ Paris en train.",à
+dr-homophone-1,homophone,Tu préfères du thé ___ du café ?,ou
+dr-homophone-1,homophone,C'est la ville ___ je suis né.,où
+dr-homophone-1,homophone,Je trouve ___ livre vraiment passionnant.,ce
+dr-homophone-1,homophone,Il ___ lève tôt tous les matins.,se
