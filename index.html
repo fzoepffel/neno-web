@@ -2,6 +2,15 @@
 <html lang="de">
   <head>
     <meta charset="UTF-8" />
+    <!-- The app loads nothing from anywhere else: no CDN, no font, no analytics, no
+         remote image. So the policy costs nothing and turns any future injection bug from
+         exploitable into blocked. A meta tag cannot carry frame-ancestors, and GitHub
+         Pages cannot set headers, so clickjacking stays out of reach until there is a host
+         that can. -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; base-uri 'none'; form-action 'none'"
+    />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
@@ -12,7 +21,7 @@
     <link rel="icon" href="icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
     <title>Neno: Französisch lernen</title>
-    <script type="module" crossorigin src="./assets/index-BfqSuqwa.js"></script>
+    <script type="module" crossorigin src="./assets/index-BzW6HNTJ.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-BndpZU-z.css">
   <link rel="manifest" href="./manifest.webmanifest"></head>
   <body>
