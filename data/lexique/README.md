@@ -40,9 +40,9 @@ freqlivres, infover.
 
 | File | Rows | What it holds |
 | --- | --- | --- |
-| `words.csv` | 4503 | the card that teaches it, the entry, its lemma, gender, our rank |
-| `forms.csv` | 1204 | verb, tense, person, inflected form |
-| `items.csv` | 360 | words a grammar drill selects out of Lexique by pattern |
+| `words.csv` | 9 | the card that teaches it, the entry, its lemma, gender, our rank |
+| `forms.csv` | 13 | verb, tense, person, inflected form |
+| `items.csv` | 30 | words a grammar drill selects out of Lexique by pattern |
 
 Everything else in Neno, the prompts, the explanations, the example sentences, the
 exercises and the scheduling, is written by us and is not covered by this licence.
